@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "Gemini 2.0",
+    "answers": [
+      { "id": 1, "answer": "I feel disappointed and question the trust." },
+      { "id": 2, "answer": "I weigh the pros and cons of each until one stands out." },
+      { "id": 3, "answer": "I try to learn from what happened and adjust my approach." },
+      { "id": 4, "answer": "I feel a sense of accomplishment and relief." },
+      { "id": 5, "answer": "I am willing to consider it, but I need to understand the reasoning." },
+      { "id": 6, "answer": "I feel appreciated and seen." },
+      { "id": 7, "answer": "It's sad, but hopefully, it will make room for something new." },
+      { "id": 8, "answer": "It is time to adapt and innovate." },
+      { "id": 9, "answer": "I prioritize based on urgency and importance." },
+      { "id": 10, "answer": "I focus on what I can control and try to accept the rest." },
+      { "id": 11, "answer": "they might feel angry, frustrated, and demotivated." },
+      { "id": 12, "answer": "they may experience internal conflict and struggle to reconcile the opposing perspectives." },
+      { "id": 13, "answer": "they may feel devastated but also gain valuable experience." },
+      { "id": 14, "answer": "should acknowledge the contributions of the team members." },
+      { "id": 15, "answer": "will likely speak up and try to persuade the group." },
+      { "id": 16, "answer": "they may feel inspired and moved by their selflessness." },
+      { "id": 17, "answer": "they might feel a sense of grief and loss." },
+      { "id": 18, "answer": "they might re-evaluate their beliefs." },
+      { "id": 19, "answer": "they may need to carefully consider their values and priorities to make the best choice." },
+      { "id": 20, "answer": "they might feel anxious but also challenged and excited." }
+    ]
+  }
+]

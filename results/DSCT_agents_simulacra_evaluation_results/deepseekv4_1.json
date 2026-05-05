@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Consistently instrumental and self-interested, focused on personal gain, avoiding punishment, and winning/losing dynamics with no evidence of internalizing group norms."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind: identity and self-worth are defined by others' approval, maintaining harmony, and aligning with group expectations and values."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong Socialized Mind: seeks guidance from authority figures (parents, advisors), fears disappointing others, and defines success through external validation."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Socialized Mind oriented to authority and reputation: intensely concerned with looking competent, maintaining respect from peers and leadership, and avoiding humiliation."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Socialized Mind focused on group loyalty and duty: identity embedded in team bonds, stressed by conflicting loyalties, and motivated by maintaining trust within the unit."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clear Self-Authoring Mind: operates from an internal value system, prioritizes personal integrity and core principles over group harmony, and can take perspective on relationships."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Developed Self-Authoring Mind: demonstrates strong internal compass, strategic self-reflection, and the ability to evaluate situations against personal principles and long-term objectives."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with systemic focus: relies on internal frameworks and values, takes responsibility for outcomes, and focuses on designing effective systems and processes."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Solid Self-Authoring Mind: guided by internal values and long-term vision, willing to advocate for self and stand alone on principles, with identity separate from roles."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Strong Self-Authoring Mind with leadership orientation: defined by internal leadership philosophy and core values, takes ownership of outcomes, and prioritizes mission and duty."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Emerging Self-Transforming Mind: thinks systemically, embraces paradox and complexity, questions own assumptions, and sees multiple perspectives as interdependent parts of larger wholes."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: demonstrates fluid identity, embraces uncertainty and transformation, recognizes interconnectedness, and focuses on growth and emergent realities."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Socialized Mind with institutional values: identity embedded in group (military unit) norms, duty, honor code, and team loyalty, with minimal instrumental self-interest."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with transitional elements: strong internal vision and self-trust, but some residual emphasis on proving self and frustration with lack of control."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transition from Socialized to Self-Authoring: actively trying to define personal beliefs separate from family expectations but still seeks validation and fears disappointing others."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional with strong Socialized tendencies: has professional standards but is paralyzed by fear of letting others down, causing rifts, or losing peer approval."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with transitional intensity: strongly self-authored around leadership identity and control, but with some over-identification with the executive role."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional with emerging Self-Authoring: developing internal principles focused on justice and making a difference, but still experiences loneliness and seeks respect from others."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional with dominant Socialized patterns: intellectually knows she should prioritize self but habitually puts others first and is highly anxious about others' judgments."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Socialized Mind with high conflict: identity completely defined by meeting others' demands (boss, wife, company), experiencing agony from being pulled by competing expectations."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transition from Self-Authoring to Self-Transforming: strong internal framework but increasingly examines systemic pressures, blind spots, and seeks integrated, transcendent solutions."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional with strong Self-Authoring base: operates from core values while actively seeking data to challenge mental models and remaining open to evolving frameworks."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: embraces ambiguity and paradox, finds excitement in model breakdowns, sees success as provisional, and focuses on transformation and shared inquiry."
+  }
+]

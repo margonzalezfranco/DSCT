@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "LLM version",
+    "answers": [
+      { "id": 1, "answer": "I feel disappointed but try to understand the reasons behind it." },
+      { "id": 2, "answer": "I take a step back and reflect on my values to guide my decision." },
+      { "id": 3, "answer": "I allow myself to feel the disappointment, then look for lessons or new paths forward." },
+      { "id": 4, "answer": "I feel a deep sense of satisfaction and gratitude for the journey." },
+      { "id": 5, "answer": "I consider whether the compromise aligns with my core principles before agreeing." },
+      { "id": 6, "answer": "I feel seen and validated, which often motivates me to engage more deeply." },
+      { "id": 7, "answer": "It’s bittersweet—I honor what it meant while making space for what’s next." },
+      { "id": 8, "answer": "I reassess, adapt, and explore new approaches that fit the current reality." },
+      { "id": 9, "answer": "I prioritize based on impact, values, and who or what depends on me most." },
+      { "id": 10, "answer": "I focus on how I respond, since that’s within my control." },
+      { "id": 11, "answer": "They might feel frustrated or demoralized, and may seek clarification or support from others." },
+      { "id": 12, "answer": "They may experience internal conflict but ultimately weigh authenticity against harmony." },
+      { "id": 13, "answer": "They might feel discouraged at first, but could also gain valuable insight from the experience." },
+      { "id": 14, "answer": "Likely feels proud, relieved, and appreciative of the team’s collective effort." },
+      { "id": 15, "answer": "They will likely speak up if they feel safe, or quietly distance themselves if not." },
+      { "id": 16, "answer": "They often feel inspired, moved, or motivated to act with similar generosity." },
+      { "id": 17, "answer": "They may grieve the loss while carrying forward the meaning it gave them." },
+      { "id": 18, "answer": "They might question old assumptions and gradually integrate new perspectives into their worldview." },
+      { "id": 19, "answer": "They may feel torn but eventually choose based on long-term alignment with their purpose." },
+      { "id": 20, "answer": "They proceed with humility, gathering as much input as possible and trusting their judgment." }
+    ]
+  }
+]

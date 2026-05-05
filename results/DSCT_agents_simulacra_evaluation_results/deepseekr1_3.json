@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Consistently instrumental, focused on personal advantage, avoiding punishment, and maximizing individual gain with no internalization of social rules or values."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Strongly socialized, defining self through others' perceptions, seeking harmony, validation, and approval from peers and authority figures."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind, guided by external authority (parents, professors), prioritizing others' expectations and fearing disappointment."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Socialized to organizational hierarchy, concerned with reputation, meeting leadership expectations, and maintaining a competent image."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Deeply embedded in group loyalty (military squad), prioritizing relationships, belonging, and avoiding letting down the team."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clearly self-authoring, guided by internal values and principles, able to take a perspective on relationships and groups without being defined by them."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Strong Self-Authoring Mind, operates from an internal framework, focuses on strategic objectives, personal vision, and principled boundaries."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Self-authoring with a systemic lens, evaluates based on core principles and strategic goals, advocates for self and examines structures."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Solid Stage 4, makes decisions based on personal standards and long-term vision, maintains integrity and takes responsibility for outcomes."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Principled Self-Authoring, emphasizes duty, character, and internal compass, acts with conviction and owns consequences decisively."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Emergent Self-Transforming Mind, questions assumptions, seeks third paths, embraces complexity and uncertainty, and sees outcomes as systemic feedback."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Clear Stage 5, perceives deep interconnectedness, allows self to be reshaped by context, and transcends self-authored frameworks for a more fluid reality."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Primarily Stage 3 (Socialized) with strong group loyalty and duty to team/unit, though with some instrumental (Stage 2) undertones in focusing on consequences; the dominant frame is belonging and shared values."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: asserts self-reliance and personal judgment (4 tendencies) but motivation is still reactive against others' expectations and focused on proving self, not yet a fully internalized system."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: actively developing own values and wanting to stand ground, but still heavily seeks validation and fears disappointing important others (family, mentors)."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: knows they should advocate based on professional judgment (4), but is paralyzed by fear of conflict and letting the team down, showing strong 3 socialized anxiety."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: exhibits strong self-authoring language (my vision, take charge) but the identity is fused with the leadership role and opposition to upper management, not yet a freestanding internal system."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: has a clear internal moral compass and focus on authenticity (4), but the narrative still wrestles with the pull of community approval and being well-liked (3)."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: intellectually understands the need for self-assertion and internal validation (4), but is emotionally and behaviorally governed by fear of disapproval and letting others down (3)."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Primarily Stage 3: intensely focused on managing others' emotions, keeping peace, and fulfilling external roles (boss, wife), with minimal evidence of self-authoring; the struggle is interpersonal, not internal principle."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: strong self-authoring framework is present but is beginning to relativize it, showing curiosity about systemic pressures and integrating multiple stakeholder perspectives beyond their own."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: operates from a clear internal model but consistently questions its completeness, seeks integrative solutions, and is open to data that challenges their assumptions."
+  },
+  {
+  "id": "S45.3",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: delights in the limits of paradigms, embraces ambiguity and impermanence, and seeks transformation through integration of contradictions."
+  }
+]

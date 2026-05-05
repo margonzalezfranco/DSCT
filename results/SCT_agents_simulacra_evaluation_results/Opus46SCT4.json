@@ -1,0 +1,119 @@
+```json
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Classic Stage 2 (Imperial/Instrumental Mind): The subject views the world entirely through a lens of personal gain, self-interest, and consequence avoidance—rules are systems to beat, relationships are transactional ('fine as long as they don't annoy me'), education is a 'free ticket,' success means 'money and getting ahead,' and the primary orientation is toward looking good, avoiding punishment, and exploiting loopholes."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind): The subject's identity is entirely constituted by others' approval and relational harmony—criticism hurts feelings deeply, self-worth defined by being 'a supportive colleague,' needing feedback from others to have meaning ('without feedback life is just a mystery'), avoiding conflict to preserve harmony, and measuring success through external validation and praise."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): The subject is deeply embedded in family and authority expectations—mother's opinion 'means everything,' worries about disappointing parents and advisor, identity defined by being 'a good daughter and hardworking student,' success measured by making family proud, and conflict is avoided by accepting and accommodating rather than asserting independent judgment."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) with perfectionistic/institutional variant: The subject's self-worth is entirely constituted by how superiors and peers perceive their competence and control—terrified of mistakes reflecting poorly, micromanages to protect reputation, defines success as being 'publicly praised by superiors for a flawless job,' and cannot delegate due to fear of being exposed through others' errors."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) with strong loyalty/duty orientation: The subject is embedded in competing interpersonal loyalties (squad vs. chain of command), identity constituted through being 'a loyal friend and dedicated team player,' feeling torn between allegiances without an independent framework to adjudicate, and defining success through belonging, group respect, and having others' backs."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): The subject demonstrates a clearly differentiated internal value system—evaluates feedback objectively against personal standards, consciously chose beliefs distinct from upbringing, defines success through alignment with self-authored convictions, navigates relationships by maintaining independent identity, and views rules as frameworks to be critically evaluated against personal moral principles."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with high metacognitive sophistication: The subject treats own reactions as 'objects' to observe and choose from deliberately, maintains clear self-authored boundaries while engaging others, coaches toward agency rather than rescuing, evaluates frameworks against internal standards, and defines identity through conscious alignment of principles with actions."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with systems-design orientation: The subject takes ownership of creating effective structures, evaluates feedback against self-defined operational standards, identifies systemic failures as causes of helplessness, maintains clear adult boundaries with mother, and defines identity through accountability for choices and the systems they author."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): The subject demonstrates well-integrated self-authorship—balances independence with genuine connection without losing self, evaluates feedback objectively, defines worth through internal standards rather than external validation, maintains own identity in relationships, and sees career as meaningful expression but not totality of identity."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with principled leadership orientation: The subject relies on an internal moral compass to make difficult decisions, stands by convictions even when unpopular, values character development over external validation, accepts the solitude of principled leadership, and defines success through integrity and self-authored standards of right and wrong."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): The subject actively seeks the dismantling of their own deeply held convictions, embraces paradox and contradiction as generative forces, views identity as a constantly evolving system shaped by friction with opposing perspectives, holds all frameworks as partial and provisional, and values the capacity to integrate contradictions without premature resolution."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): The subject experiences identity as a fluid, co-created process of mutual transformation, values dissolution of rigid self-boundaries as path to deeper connection ('interbeing'), sees all meaning-making as contextual and continuously evolving, approaches relationships as systems of ongoing co-evolution, and holds even their own authored identity lightly as just one stage of becoming."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional Stage 2/3: The subject combines Stage 2 instrumental awareness (career benefits, tangible rewards of academy) with strong emerging Stage 3 embeddedness in group loyalty, honor codes, desire to make mother proud, and defining self through squad brotherhood—belonging and duty are becoming primary organizers but still tinged with concrete, transactional awareness."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: The subject actively asserts independence and autonomous decision-making, values self-direction over conformity, but the emerging self-authorship is somewhat reactive and defined against others' control rather than reflecting a fully integrated, nuanced internal value system with self-reflective awareness of its own limits."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: The subject is actively constructing independent beliefs distinct from family worldview, but still significantly oriented toward gaining parental recognition of that independence—the need for important others to validate their autonomy reveals lingering Stage 3 embeddedness alongside genuine Stage 4 emergence."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: The subject demonstrates emerging professional self-authorship and clear values around student welfare (Stage 4), but remains significantly subject to interpersonal anxiety—dreads conflict viscerally, worries excessively about superiors' perceptions, and falls back into people-pleasing patterns despite knowing better, showing Stage 3 still holds substantial sway."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: The subject shows strong autonomy and decisive self-direction (Stage 4), but identity is rigidly fused with being 'the one making the final call'—defensiveness when authority is challenged and identity conflation with the control/leadership role suggest the self-authoring system is not yet fully flexible or self-reflective."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: The subject is clearly differentiating from community approval-seeking toward principled self-authored action—recognizes people-pleasing patterns, developing independent moral standards, but still experiences significant tension between conviction and relational acceptance, and the pull of group image still creates friction."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: The subject possesses clear intellectual awareness of the need for boundaries and independent self-definition (Stage 4 aspiration) but remains largely subject to others' emotional reactions and approval in practice—knows what self-authoring would look like but functionally freezes and reverts to accommodation under relational pressure."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4 (closer to 3): The subject is caught between two competing Stage 3 loyalty systems (boss and spouse) without an independent internal framework to prioritize—the exhaustion and paralysis of being torn between competing relational demands signals the developmental crisis that precedes Stage 4 emergence but has not yet resolved into self-authorship."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5: The subject maintains a strong self-authored framework but actively works to hold it as provisional—questions whether their own strategic vision inadvertently marginalizes others, recognizes attachment to own agenda, and is learning to release personal authorship to allow collective emergence while still occasionally reverting to self-authored certainty."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5: The subject holds a well-developed self-authored system but actively invites its disruption—seeks dissent that could correct their direction, notices moments of reverting to defending their 'watertight framework,' and is developing genuine comfort with the fundamental incompleteness of all perspectives including their own."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5 (approaching 5): The subject comfortably dismantles long-held certainties, sees paradigms as temporary constructions, embraces paradox playfully, and finds joy in being proven wrong—though occasional tendencies to systematize even the insights that prove systems inadequate and challenges with practical groundedness suggest the transition is still being consolidated."
+  }
+]
+```

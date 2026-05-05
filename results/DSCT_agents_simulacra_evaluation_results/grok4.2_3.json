@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The subject focuses on personal gain, avoiding blame, and immediate consequences, indicating Stage 2 (Instrumental Mind) with a self-centered, pragmatic approach."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "The responses show a reliance on relationships and group harmony for validation, characteristic of Stage 3 (Socialized Mind), where identity is shaped by others' expectations."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "The subject seeks advice from authority figures and worries about disappointing them, reflecting Stage 3 (Socialized Mind) with a focus on interpersonal obligations."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Emphasis on team image and superiors' approval indicates Stage 3 (Socialized Mind), where decisions are driven by group dynamics and external validation."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "The subject expresses anxiety about disappointing superiors and peers, aligning with Stage 3 (Socialized Mind) through dependence on relational feedback."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "The subject demonstrates self-authoring by prioritizing internal values and personal judgment over external influences, typical of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Responses reflect an internal compass guiding decisions, such as aligning with long-term vision, indicating Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "The subject advocates for self-defined principles and evaluates situations objectively, characteristic of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Emphasis on personal standards and core principles over relationships points to Stage 4 (Self-Authoring Mind), with a focus on self-directed action."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "The subject relies on internal judgment and values for decision-making, exemplifying Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "The responses show fluid integration of perspectives and exploration of tensions, indicating Stage 5 (Self-Transforming Mind) with a systemic, evolving worldview."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "The subject engages with interconnected dynamics and embraces ambiguity, reflecting Stage 5 (Self-Transforming Mind) through adaptive, holistic thinking."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "The subject mixes self-interest with group loyalty, showing a transition from Stage 2 (Instrumental) to Stage 3 (Socialized), focusing on both personal and relational concerns."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Responses blend reliance on relationships with emerging self-direction, indicating a transitional Stage 3/4 from Socialized to Self-Authoring Mind."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "The subject shows concern for others' opinions while asserting personal values, marking a shift from Stage 3 (Socialized) to Stage 4 (Self-Authoring)."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "There's a mix of interpersonal anxiety and independent decision-making, reflecting a transition from Stage 3 (Socialized) to Stage 4 (Self-Authoring)."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "The subject balances group expectations with personal leadership, indicating a transitional Stage 3/4 from Socialized to Self-Authoring Mind."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Responses reveal a blend of relational concerns and core principles, signifying a move from Stage 3 (Socialized) to Stage 4 (Self-Authoring)."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "The subject grapples with pleasing others while developing self-reliance, showing a transition from Stage 3 (Socialized) to Stage 4 (Self-Authoring)."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "There's a conflict between avoiding conflict and personal choice, indicating a Stage 3/4 transition from Socialized to Self-Authoring Mind."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "The subject demonstrates self-authoring with emerging systemic awareness, indicating a transition from Stage 4 (Self-Authoring) to Stage 5 (Self-Transforming)."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Responses show internal direction alongside exploration of complexities, reflecting a shift from Stage 4 (Self-Authoring) to Stage 5 (Self-Transforming)."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "The subject integrates personal principles with fluid perspectives, marking a transitional Stage 4/5 from Self-Authoring to Self-Transforming Mind."
+  }
+]

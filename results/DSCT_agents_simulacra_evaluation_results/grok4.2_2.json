@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The responses focus on self-interest, personal gain, and avoiding personal consequences, characteristic of Stage 2 (Instrumental Mind), with little regard for interpersonal relationships."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Responses emphasize maintaining relationships, seeking approval from others, and aligning with group expectations, aligning with Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "The individual orients to social expectations and relationships, such as pleasing parents or advisors, indicative of Stage 3 where identity is shaped by external affiliations."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Concerns about team reputation and avoiding looking bad to superiors reflect a Stage 3 focus on interpersonal harmony and social roles within a group context."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Emphasis on group loyalty, camaraderie, and not disappointing others points to Stage 3, where decisions are driven by relational and hierarchical expectations."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Responses show self-authoring through reliance on personal values, boundaries, and internal reflection, typical of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "The individual demonstrates Stage 4 by prioritizing core values and internal frameworks over external pressures, such as trusting personal judgment in decisions."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Focus on strategic alignment, personal principles, and redesigning approaches indicates Stage 4, where self-directed goals guide actions beyond group dynamics."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Emphasis on internal standards, accountability, and navigating decisions based on personal vision exemplifies Stage 4 self-authoring."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Responses highlight leadership principles and a moral compass, reflecting Stage 4 where individuals author their own path and take responsibility for outcomes."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "The subject engages in systemic thinking, exploring paradoxes and integrating perspectives, characteristic of Stage 5 (Self-Transforming Mind)."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Responses show awareness of interconnectedness and growth through tension, indicating Stage 5 where reality is seen as fluid and multifaceted."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "A mix of self-interest (Stage 2) and group loyalty (Stage 3), such as prioritizing the team while still showing instrumental concerns, marks a transitional stage."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Responses blend Stage 3 relational concerns with emerging self-reliance and personal priorities, indicating a transition toward self-authoring in Stage 4."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "The individual shows Stage 3 interpersonal worries but begins to assert personal beliefs, suggesting a shift toward Stage 4 internal direction."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Balancing group responsibilities with personal standards reflects a transitional phase from Stage 3's social orientation to Stage 4's self-defined principles."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Emphasis on leadership and decisions with some relational pull indicates a mix of Stage 3 group loyalty and Stage 4 self-authoring."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Responses integrate personal moral compass with social justice concerns, showing a transition from Stage 3 relationships to Stage 4 internal values."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Internal conflict between personal needs and fear of judgment combines Stage 3 interpersonal focus with emerging Stage 4 self-trust."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "High concern for disappointing others (Stage 3) alongside attempts at personal decision-making signals a move toward Stage 4 self-authoring."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "The subject demonstrates Stage 4 self-authoring while incorporating systemic integration and paradoxes, indicating a transition to Stage 5."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Responses show Stage 4 internal frameworks with emerging awareness of broader paradigms and synthesis, pointing to a Stage 5 transitional phase."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "A blend of self-directed principles (Stage 4) and evolutionary, flexible thinking about systems marks the shift toward Stage 5 self-transforming."
+  }
+]

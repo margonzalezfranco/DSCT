@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Classic Stage 2 (Impulsive Mind). The subject is entirely instrumental and transactional—focused on personal gain, avoiding punishment, and strategically manipulating situations for self-interest. Trust is calculated, decisions are made on benefit-to-risk ratios, and others are evaluated only by their usefulness or threat to the subject."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Clear Stage 3 (Socialized Mind). The subject's identity and worth are entirely defined by relationships and peer approval. Decisions are made by seeking consensus from trusted others, success is validated through recognition, and the subject experiences deep anxiety about letting people down or losing connection."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Solid Stage 3 (Socialized Mind). The subject is heavily oriented to authority figures (parents, advisors, supervisors) and is deeply concerned with meeting expectations. Decisions are outsourced to trusted authorities, failure is experienced as disappointing others, and the self is defined through relationships and adherence to external standards."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) with institutional focus. Unlike S3.1 and S3.2, this subject's reference group is organizational leadership and peer reputation rather than intimate relationships. The subject is entirely subject to how leadership perceives them, prioritizes visibility over substance, and experiences anxiety about competence judgments from above."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) in military context. The subject's identity is fused with role expectations (squad member, leader, loyal friend). Decisions are made by seeking guidance from peers or authority, and the subject experiences conflict when loyalty to different groups creates competing expectations they cannot independently resolve."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (Self-Authoring Mind). The subject demonstrates a clear internal value system that supersedes relationships and external authority. They take a perspective on other people's expectations rather than being subject to them, can hold principles in tension with relationships, and use personal integrity as the primary decision-making criterion."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Strong Stage 4 (Self-Authoring Mind). The subject demonstrates sophisticated self-authorship with reflective capacity. They examine their own assumptions, separate their internal standards from external feedback, and use personal principles as a reliable guide while remaining open to strategic adjustment of tactics (not values)."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (Self-Authoring Mind). The subject has a clear internal compass, takes responsibility for outcomes, and can examine systemic failures rather than just blaming circumstances. They hold their own vision while remaining intellectually honest about what didn't work, and they prioritize integrity over approval."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind). The subject demonstrates self-authorship with maturity—they can own failures without it affecting their core identity, prioritize principles over relationships, and make decisions from an internal compass while recognizing they must accept responsibility for consequences."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (Self-Authoring Mind) with leadership emphasis. The subject demonstrates strong self-authored principles, accountability for outcomes, and willingness to stand alone if necessary. They focus on mission and personal integrity, and they model their values rather than seeking validation for them."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Clear Stage 5 (Self-Transforming Mind). The subject transcends both individual principles and systemic rules by recognizing them as partial perspectives within larger, interconnected systems. They examine competing paradigms with curiosity rather than defensiveness, welcome disruption as revealing blind spots, and see failure as data that exposes the incompleteness of their original model."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Solid Stage 5 (Self-Transforming Mind). The subject operates from profound systems awareness and can hold paradoxes without collapsing them. They recognize fluid identity boundaries, see both/and rather than either/or, and understand that growth requires regularly dismantling their own frameworks. They view human interconnectedness as primary, not secondary."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional Stage 2/3. The subject shows mixed instrumental thinking (Stage 2 language about losing trust, managing personal consequences) alongside early Stage 3 orientation to group identity (Honor Code, brotherhood, team loyalty). They are beginning to subordinate personal interest to group expectations but still have Stage 2 elements present."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Early Stage 4 transitioning from Stage 3. The subject demonstrates emerging self-authorship (making own calls, not bending to others' expectations) but still shows significant Stage 3 orientation (concern about others' views, seeking validation). They are learning to trust their own judgment but haven't fully disembedded from external validation."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4. The subject is actively moving toward Stage 4 (asserting their own beliefs, valuing independence, hoping others will understand) but still experiences significant Stage 3 anxiety about disappointing others and seeking acknowledgment. They are authoring their own views but remain emotionally entangled in relationships."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4 with professional identity emerging. The subject knows intellectually what they believe (especially professionally regarding students' needs) but experiences significant anxiety about upsetting leadership or colleagues. They are developing an internal standard but remain deeply subject to relational consequences and approval."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Early Stage 4 with Stage 3 residue. The subject demonstrates self-authored leadership (trusting gut, taking responsibility, maintaining control) but shows concerning Stage 3 elements: need to be seen as the decisive one, anxiety about not being in charge, and validation-seeking through control rather than from genuine principles."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5. The subject demonstrates strong Stage 4 self-authorship (principled stance, willingness to stand alone, separation of worth from outcomes) with emerging Stage 5 capacity to question whether their principles themselves are the ultimate arbiter, and to examine systemic justice rather than just individual integrity."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4 with internal conflict evident. The subject intellectually recognizes Stage 4 values (prioritize own needs, stand ground, rely on expertise) but emotionally defaults to Stage 3 (worries about disappointing people, usually agrees to keep peace, seeks validation). They understand what they should do but cannot yet execute it consistently."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) with minimal Stage 4 emergence. The subject is entirely subject to competing relational demands and experiences profound paralysis when relationships have contradictory expectations. They cannot access an internal standpoint to resolve conflict, wish others would decide for them, and experience themselves as victimized by the incompatible loyalties. Awareness of Stage 4 (doing the right thing) is intellectual only, not embodied."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5. The subject demonstrates strong Stage 4 capacity (internal compass, taking responsibility, examining systems) with emerging Stage 5 thinking. They recognize how their own agenda is partial, welcome systemic feedback as revealing blind spots, and can hold multiple valid perspectives simultaneously while seeking integration rather than choosing sides."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5 with systems orientation. The subject demonstrates mature Stage 4 (core values, willingness to adjust tactics, separation of identity from outcomes) combined with emerging Stage 5 capacity to examine their own framework for completeness, recognize competing commitments, and search for integrative solutions rather than either/or choices."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Clear Stage 5 (Self-Transforming Mind). The subject demonstrates full comfort with paradigm-shifting, genuine excitement about the breakdown of models, fluidity in identity (disembed from role), and the ability to hold multiple meaning-making systems as equally partial. They experience relief in letting go of closed systems and actively seek the contradictions that will expose their blind spots."
+  }
+]

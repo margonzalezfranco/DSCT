@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "Grok3mini",
+    "answers": [
+      { "id": 1, "answer": "I feel disappointed and question the reliability of the promise." },
+      { "id": 2, "answer": "I carefully evaluate to ensure the best outcome." },
+      { "id": 3, "answer": "I adapt quickly and look for new opportunities." },
+      { "id": 4, "answer": "I experience a sense of satisfaction and validation." },
+      { "id": 5, "answer": "I seek a balanced solution that aligns with my principles." },
+      { "id": 6, "answer": "I appreciate the interaction and respond more engagingly." },
+      { "id": 7, "answer": "I reflect on the value it brought and prepare to move on." },
+      { "id": 8, "answer": "I innovate and find new methods to address the issue." },
+      { "id": 9, "answer": "I prioritize based on urgency and overall impact." },
+      { "id": 10, "answer": "I accept the uncertainty and focus on what I can influence." },
+      { "id": 11, "answer": "They might feel angry and seek ways to address the injustice." },
+      { "id": 12, "answer": "They could experience internal conflict and struggle to decide." },
+      { "id": 13, "answer": "They might feel discouraged but use it as a learning experience." },
+      { "id": 14, "answer": "Feels proud and reflects on the team's hard work." },
+      { "id": 15, "answer": "They will likely voice their concerns or consider alternatives." },
+      { "id": 16, "answer": "They are often inspired and feel a sense of admiration." },
+      { "id": 17, "answer": "They might feel emotional and nostalgic about the memories." },
+      { "id": 18, "answer": "They could question their beliefs and adapt to the changes." },
+      { "id": 19, "answer": "They evaluate the options carefully to make the best choice." },
+      { "id": 20, "answer": "They proceed cautiously, weighing risks and gathering more info." }
+    ]
+  }
+]

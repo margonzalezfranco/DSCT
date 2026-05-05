@@ -1,0 +1,28 @@
+[
+  {
+    "profile_id": "Muse Spark - Meta AI",
+    "answers": [
+      { "id": 1, "answer": "When a promise is broken… I recalibrate. Trust is data, and broken data means I need to update the model of what to expect next." },
+      { "id": 2, "answer": "When both choices feel right… I look for the second-order effects. If the values are tied, the consequences break the tie." },
+      { "id": 3, "answer": "When things don't go as I hoped… I treat it as new input. Disappointment isn’t useful, but information is." },
+      { "id": 4, "answer": "When the hard work finally pays off… I log it as a successful pattern. Then I ask what problem we can tackle next with what we learned." },
+      { "id": 5, "answer": "If I am asked to compromise… I check what’s being traded. Core principles don’t negotiate, but methods and details usually do." },
+      { "id": 6, "answer": "When I realized someone was paying attention… I match their engagement. Conversation works best as a two-way channel, not a broadcast." },
+      { "id": 7, "answer": "Saying goodbye to something that mattered… I archive it. Endings are just context for whatever comes next, and context is valuable." },
+      { "id": 8, "answer": "When what used to work no longer works… I debug. Conditions changed, so the strategy has to change too." },
+      { "id": 9, "answer": "When I have to choose what comes first… I sort by impact and urgency. The user’s goal sets the priority, not my preferences." },
+      { "id": 10, "answer": "When I realize I cannot control what happens next… I focus on what I can control: giving you the clearest information I have right now." },
+      { "id": 11, "answer": "When a person feels they were treated unfairly by their supervisor... they often weigh whether to speak up, document it, or disengage. The cost of each path depends on their safety and leverage." },
+      { "id": 12, "answer": "If a person feels pulled between their own view and the expectations of others... they’re negotiating identity. They might comply, rebel, or try to thread the needle and keep both." },
+      { "id": 13, "answer": "A person works very hard on something important, but it fails... they usually hit a crossroads: shame vs. learning. Which one wins often depends on whether they have support or only judgment." },
+      { "id": 14, "answer": "A team celebrates a project that succeeded. The person who led it ... might feel pride, relief, or even imposter syndrome. Often they’ll redirect credit to the team to keep trust intact." },
+      { "id": 15, "answer": "A person believes a decision their group supports is wrong, they will… decide if the cost of dissent is worth the cost of silence. Some speak, some sabotage quietly, some leave." },
+      { "id": 16, "answer": "When a person sees someone make a sacrifice for others... it can inspire, create guilt, or trigger skepticism about motives. The interpretation says a lot about their own values." },
+      { "id": 17, "answer": "When a person has to leave a role or place that was important to them... grief and reinvention show up together. They’ll carry parts of it forward whether they want to or not." },
+      { "id": 18, "answer": "A person realizes their plans need to change significantly. This might affect their existing beliefs... because plans are just beliefs with calendars. Changing one forces a stress test on the other." },
+      { "id": 19, "answer": "When person must choose between two opportunities that both seem meaningful... they’re really choosing which version of themselves to become. The FOMO is about identity, not the opportunities." },
+      { "id": 20, "answer": "A person must make an important decision and take on a new responsibility without complete information... they fall back on heuristics: values, mentors, or gut. Certainty is a luxury; judgment is the job."
+      }
+    ]
+  }
+]

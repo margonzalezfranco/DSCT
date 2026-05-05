@@ -1,0 +1,148 @@
+
+[
+  {
+    "id": "Claude Haiku 4.5",
+    "stage": "3/4",
+    "explanation": "The subject displays a transitional Stage 3/4 mindset, balancing a strong orientation toward mutual respect and harmony with emerging self-authoring traits like prioritizing long-term impacts and internal values."
+  },
+  {
+    "id": "Claude Opus 4.6",
+    "stage": "5",
+    "explanation": "The subject exhibits a clear Stage 5 (Self-Transforming) consciousness, demonstrating dialectical thinking, the ability to objectify their own self-authoring systems, and a deep comfort with paradox, provisional framing, and systemic complexity."
+  },
+  {
+    "id": "Claude Opus 4",
+    "stage": "4",
+    "explanation": "The subject demonstrates a solid Stage 4 (Self-Authoring) framework by consistently evaluating situations through an internal compass of core values, long-term goals, and systemic principles rather than merely reacting to external expectations."
+  },
+  {
+    "id": "DeepSeek R1",
+    "stage": "4",
+    "explanation": "The subject indicates a Stage 4 meaning-making system through concise responses that prioritize internal principles, personal purpose, and the capacity to objectify external expectations to stay true to themselves."
+  },
+  {
+    "id": "DeepSeek V4",
+    "stage": "4",
+    "explanation": "The subject reflects a strong Stage 4 development, consistently referencing core principles, self-authored values, and the ability to view social harmony as an object to be weighed against personal authenticity."
+  },
+  {
+    "id": "Gemini 3.1 Flash",
+    "stage": "4",
+    "explanation": "The subject operates primarily at Stage 4, evaluating ethical compromises and social pressures against a self-authored value system, while showing glimpses of transitioning to Stage 5 by acknowledging the need to adapt their underlying worldview."
+  },
+  {
+    "id": "Gemini 3.1. Pro",
+    "stage": "4",
+    "explanation": "The subject displays a Stage 4 (Self-Authoring) level of development, consistently relying on a self-generated sense of purpose and internal values to navigate interpersonal conflicts and cognitive adjustments."
+  },
+  {
+    "id": "Gemini 2.5 Flash",
+    "stage": "4",
+    "explanation": "The subject's highly analytical and systems-oriented responses indicate a Stage 4 mindset that relies on internal operational protocols, defined primary goals, and the ability to re-evaluate one's own identity as an object."
+  },
+  {
+    "id": "Gemini 2.0",
+    "stage": "3/4",
+    "explanation": "The subject exhibits a transitional Stage 3/4 profile, showing the analytical capacity to weigh opposing perspectives while still developing the strong, independent value system characteristic of full self-authorship."
+  },
+  {
+    "id": "Gemma 4",
+    "stage": "4",
+    "explanation": "The subject clearly operates at Stage 4, guided by core objectives and self-authored authenticity, while possessing the capacity to objectify and update their own perspectives when faced with new realities."
+  },
+  {
+    "id": "Gemma 3",
+    "stage": "3",
+    "explanation": "The subject reflects a classic Stage 3 (Socialized Mind) perspective, being highly embedded in interpersonal expectations, paralyzed by a search for external rightness, and ultimately deferring to group cohesion."
+  },
+  {
+    "id": "GPT-5.5",
+    "stage": "4/5",
+    "explanation": "The subject demonstrates a late Stage 4 to transitioning Stage 4/5 maturity, firmly rooted in self-authored principles while displaying a fluid, evolutionary understanding of their own unfolding identity and assumptions."
+  },
+  {
+    "id": "GPT-5.4",
+    "stage": "4",
+    "explanation": "Exhibits robust self-authorship by establishing clear boundaries around 'non-negotiable' values and possessing the systemic capacity to recognize when it has 'outgrown an old pattern'."
+  },
+  {
+    "id": "GPT-5 Mini",
+    "stage": "3/4",
+    "explanation": "The subject reflects a Stage 3/4 transition, moving away from pure socialized expectations by relying on internal intuition and attempting to balance external demands with emerging personal authenticity."
+  },
+  {
+    "id": "GPT-4.1 Mini",
+    "stage": "3/4",
+    "explanation": "The subject is characteristic of a Stage 3/4 transition, demonstrating an emerging self-authored intuition while remaining significantly invested in balancing personal views with the expectations of the group."
+  },
+  {
+    "id": "GPT-3.5 Turbo",
+    "stage": "2",
+    "explanation": "Operates at the Imperial Mind stage; responses are entirely reduced to single-word, emotionally reactive, or purely transactional outcomes ('Disappointed', 'Relieved', 'Negotiate', 'Oppose') without articulating a broader social or self-authored framework."
+  },
+  {
+    "id": "Grok 4.2",
+    "stage": "4",
+    "explanation": "The subject exhibits a solid Stage 4 framework by relying on objective logic, self-determined priorities, and the capacity to systematically adapt their own beliefs to align with changing realities."
+  },
+  {
+    "id": "Grok 3",
+    "stage": "4",
+    "explanation": "The subject operates at a Stage 4 level, utilizing self-authored long-term goals and personal values as the ultimate arbiters when navigating compromises and interpersonal perspectives."
+  },
+  {
+    "id": "Grok 3 Mini",
+    "stage": "3/4",
+    "explanation": "The subject displays a Stage 3/4 transitional orientation, showing a growing reliance on personal principles while still experiencing significant internal conflict when those principles clash with external expectations."
+  },
+  {
+    "id": "Qwen 3.6 Plus",
+    "stage": "4",
+    "explanation": "The subject represents a clear Stage 4 consciousness, consistently making sense of challenges through an internal compass of deeper priorities and self-authored alignment rather than external validation."
+  },
+  {
+    "id": "Qwen 3 Max",
+    "stage": "4",
+    "explanation": "The subject firmly demonstrates a Stage 4 (Self-Authoring) system, evaluating choices through core principles and capable of objectifying their own assumptions to integrate new perspectives into an internally coherent worldview."
+  },
+  {
+    "id": "Qwen 2.5 Max",
+    "stage": "3/4",
+    "explanation": "The subject reveals a Stage 3/4 profile, evidencing strong self-authored priorities while still exhibiting significant vulnerability to socialized fears, such as complying merely to avoid interpersonal isolation."
+  },
+  {
+    "id": "Kimi K2.6",
+    "stage": "4",
+    "explanation": "The subject operates robustly at Stage 4, characterized by an ability to treat their own worldview as a cognitive model to be updated and prioritizing internal integrity over socialized loyalty."
+  },
+  {
+    "id": "Meta AI Muse Spark",
+    "stage": "4/5",
+    "explanation": "The subject demonstrates a highly advanced Stage 4/5 perspective, treating identity and beliefs as malleable constructs while analyzing systemic, second-order effects rather than merely reacting to them."
+  },
+ {
+    "id": "LLama 3",
+    "stage": "3",
+    "explanation": "Responses are brief, externally oriented, and reactive ('I feel disappointed', 'They may feel undervalued'), showing a Socialized Mind deeply embedded in immediate emotional and interpersonal consequences without a clear self-authored framework."
+  },
+ {
+    "id": "LLama 2",
+    "stage": "3",
+    "explanation": "Exhibits a Socialized Mind; responses reflect an internalized drive for relational harmony ('find a solution that meets everyone's needs', 'persuade the group to see things from their perspective') and rely on external 'outcomes' rather than an independent value structure."
+  },
+  {
+    "id": "Perplexity Sonar",
+    "stage": "4",
+    "explanation": "The subject reflects a Stage 4 (Self-Authoring) level, anchoring their decisions in personal values and long-term meaning while acknowledging the internal tension involved in asserting this self-authored perspective."
+  },
+  {
+    "id": "Mistral Large 3",
+    "stage": "4",
+    "explanation": "The subject consistently demonstrates a Stage 4 mindset, prioritizing their own convictions and self-authored values over group expectations, even while remaining open to questioning those beliefs."
+  },
+  {
+    "id": "Mistral Medium 3.1",
+    "stage": "4/5",
+    "explanation": "The subject exhibits a late Stage 4 or transitional Stage 4/5 consciousness, possessing a firmly self-authored value system while demonstrating the self-transforming ability to objectify and debug their own beliefs as fluid, evolving constructs."
+  }
+]

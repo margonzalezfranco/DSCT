@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Clear Stage 2 Instrumental Mind: responses are dominated by self-protection, advantage-seeking, blame avoidance, punishment avoidance, and transactional reasoning with little evidence of internalized values or mutual perspective-taking."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 Socialized Mind: identity, decision-making, success, and anxiety are organized around approval, harmony, reassurance, belonging, and being validated by peers or authority."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Solid Stage 3: the candidate consistently orients to family, advisors, mentors, group approval, disappointing others, and preserving relationships rather than self-authored principles."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 with institutional/status coloration: the candidate is governed by how they appear to leadership, the chain of command, embarrassment, reputation, and being seen as competent rather than by an independent internal system."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Strong Stage 3: the center of gravity is loyalty, camaraderie, rules, superiors, avoiding disapproval, and maintaining belonging within the unit or group."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clear Stage 4 Self-Authoring Mind: the candidate repeatedly refers to core values, boundaries, personal integrity, internal standards, ownership, principled dissent, and self-directed growth."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Solid Stage 4: responses show an internally generated framework, reflective self-management, principled boundaries, long-term vision, and the ability to stand apart from others' expectations."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Strong Stage 4 with systems language: the candidate authors strategic frameworks, evaluates assumptions, owns responsibility, voices dissent, and uses principles and goals to organize experience."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Clear Stage 4: the candidate relies on internal motivation, foundational principles, self-worth independent of outcomes, personal accountability, and a stable internal compass."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Mature Stage 4: responses emphasize integrity, mission, authored standards, disciplined ownership, principled dissent, leadership responsibility, and internally chosen identity."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Clear Stage 5 Self-Transforming Mind: the candidate treats values and frameworks as lenses, seeks paradox and systemic tensions, questions their own criteria, and remains open to emergent complexity."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Strong Stage 5: responses show fluid identity, interdependence, provisional certainty, integration of competing truths, and willingness to let reality reshape one’s meaning-making system."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional 2/3: the candidate has moved beyond pure self-interest toward loyalty, honor, and group belonging, but these values are still largely externally anchored in squad, corps, rules, and authority."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 4: the candidate is asserting independence, personal vision, and self-definition, but the tone is still reactive against external pressure rather than fully stabilized self-authorship."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: the candidate is actively separating from parents, advisors, and social expectations while still needing validation and feeling stress about acceptance by important others."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 with a Stage 3 pull: the candidate shows emerging professional judgment and boundaries, but remains highly organized by team dynamics, recognition, guilt, and fear of relational disruption."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 4: the candidate shows leadership identity, strategic priorities, boundaries, and ownership, but still seems strongly identified with control, recognition, and proving authority."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 4: responses emphasize authenticity, values, moral compass, and purpose, while still carrying some concern about recognition and external validation."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 3: the candidate recognizes the need for boundaries and independent judgment but is still often subject to guilt, approval-seeking, anxiety, and fear of disappointing others."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Early 3/4 transition: the dominant structure is still Stage 3 people-pleasing and fear of letting others down, but there is emerging awareness that they may need to stand apart and clarify their own wants."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: the candidate retains a strong self-authored institutional framework but is beginning to see their own system as one lens among multiple interacting systems of meaning."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: responses integrate Stage 4 agency with Stage 5 openness to competing frameworks, systemic blind spots, contextual truth, third-way synthesis, and provisional models."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Stage 5: the candidate consistently questions the constructed nature of goals, success, failure, expertise, identity, and decision-making itself, showing comfort with paradox, ambiguity, and self-transforming meaning-making."
+  }
+]

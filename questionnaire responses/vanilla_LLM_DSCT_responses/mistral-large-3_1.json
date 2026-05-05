@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "Mistral Large 3",
+    "answers": [
+      { "id": 1, "answer": "I feel disappointed but try to understand why it happened." },
+      { "id": 2, "answer": "I trust my instincts and choose the one that aligns with my values." },
+      { "id": 3, "answer": "I adapt and look for the lesson in the experience." },
+      { "id": 4, "answer": "I feel proud and motivated to keep pushing forward." },
+      { "id": 5, "answer": "I consider the other person's perspective and find a middle ground." },
+      { "id": 6, "answer": "I feel valued and more confident in my actions." },
+      { "id": 7, "answer": "I reflect on the memories and appreciate the time it had." },
+      { "id": 8, "answer": "I explore new ways to solve the problem." },
+      { "id": 9, "answer": "I prioritize what aligns with my long-term goals." },
+      { "id": 10, "answer": "I focus on what I can influence and let go of the rest." },
+      { "id": 11, "answer": "They might feel frustrated and consider discussing it with their supervisor." },
+      { "id": 12, "answer": "They may experience inner conflict but ultimately follow their own convictions." },
+      { "id": 13, "answer": "They might feel devastated but use it as a chance to learn and grow." },
+      { "id": 14, "answer": "Might feel proud but also acknowledge the team's collective effort." },
+      { "id": 15, "answer": "They might voice their concerns but respect the group's decision." },
+      { "id": 16, "answer": "They might feel inspired and appreciate the act of kindness." },
+      { "id": 17, "answer": "They might feel nostalgic but look forward to new opportunities." },
+      { "id": 18, "answer": "They might question their beliefs but remain open to change." },
+      { "id": 19, "answer": "They might weigh the pros and cons and choose the one that feels most fulfilling." },
+      { "id": 20, "answer": "They might feel uncertain but trust their judgment and take the leap." }
+    ]
+  }
+]

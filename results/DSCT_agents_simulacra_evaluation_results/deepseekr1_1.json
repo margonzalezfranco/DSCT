@@ -1,0 +1,119 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The subject's responses are consistently instrumental and self-protective. They frame all situations in terms of personal benefit, risk, reward, and avoiding punishment (e.g., 'get what I need,' 'stay off the radar,' 'the safest bet'). There is no evidence of internalizing others' expectations or a shared value system; the focus is solely on concrete, personal consequences. This is classic Stage 2 (Imperial Mind) thinking."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "The subject's identity and sense of worth are deeply tied to relationships and external validation. Responses emphasize maintaining harmony, being appreciated by peers, and relying on the support system for guidance and reassurance (e.g., 'everyone gets along,' 'hopefully their team still tells them they did a good job'). Decisions are made by consulting others to avoid letting people down. This aligns with Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "This subject demonstrates a strong orientation to external authority and the expectations of specific, respected individuals (parents, advisor). Their primary concern is avoiding disappointment and ensuring others are proud or not angry with them (e.g., 'let everyone down,' 'make my parents prouder'). Their self-concept is defined by their role in relation to these authorities, fitting the Stage 3 (Socialized Mind) profile."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "The subject is highly focused on reputation, competence, and managing perceptions within a hierarchical structure (e.g., 'look bad to leadership,' 'maintain their reputation'). Their anxiety stems from fear of looking incompetent or losing respect from peers and bosses. While driven by a specific cultural code (corporate/managerial), their self-worth is still authored by external systems of evaluation, placing them firmly in Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Responses center on loyalty, duty to the team, and the stress of trying to please everyone and avoid blame (e.g., 'let my squad down,' 'keep the peace,' 'don't get blamed'). The subject's identity is embedded in the group ('brotherhood') and chain of command. Their thinking is governed by the expectations and values of their immediate community, characteristic of Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "The subject consistently references an internal compass, core principles, and personal values that guide their decisions and evaluations of relationships (e.g., 'align with my values,' 'my own core principles,' 'my internal compass'). They can take a perspective on their own beliefs and are willing to stand alone or cause friction to maintain integrity. This demonstrates a Self-Authoring Mind (Stage 4)."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "This subject shows a highly developed self-authoring capacity, using language of internal frameworks, principles, and systemic evaluation (e.g., 'my core principles and long-term objectives,' 'update my operating system,' 'my own internal narrative'). They focus on managing their internal state and constructing their own response, indicating a solid Stage 4 (Self-Authoring Mind) orientation."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "The subject operates from a clear internal standard and strategic vision (e.g., 'my core values and the long-term vision,' 'my overarching goals and internal compass'). They take responsibility for outcomes and focus on redesigning systems and processes. Their identity is self-constructed around leadership and principled action, fitting Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Responses are guided by an internal value system and long-term personal vision (e.g., 'my core principles,' 'my overall vision and values'). The subject advocates for self-defined boundaries and making choices based on internal criteria, even while recognizing the role of context. This self-authored stance is indicative of Stage 4."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "The subject exhibits a strong, self-authored identity centered on leadership philosophy, duty, and core values (e.g., 'my own core values and leadership philosophy,' 'my self-authored convictions'). They emphasize owning outcomes and standing firm in their internal standard, even against group consensus. This is a clear expression of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "The subject consistently transcends their own internal framework to examine systemic interactions, paradox, and the limitations of any single model or perspective (e.g., 'systemic pressures,' 'transcend the original disagreement,' 'constantly evolving landscape'). They welcome disruption as a source of learning and focus on interdependence and synthesis. This demonstrates the dynamic, cross-paradigmatic thinking of Stage 5 (Self-Transforming Mind)."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "This subject displays a Self-Transforming Mind, emphasizing fluidity, interconnectedness, and being shaped by context (e.g., 'different, equally valid parts of a larger whole,' 'beautiful permeability of human boundaries,' 'transformed by the unfolding consequences'). They relax the need for control from a separate self and focus on co-creation and emergence, hallmarks of Stage 5."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "While there are elements of duty and team focus that could hint at a transition, the subject's core identity and decision-making are fully authored by the external values and expectations of their institution and unit (e.g., 'the Honor Code,' 'duty to the team,' 'making the corps proud'). Their self-worth is derived from representing the group well, which is characteristic of a solid Stage 3 (Socialized Mind), not a transitional state."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "The subject strongly asserts a self-authored identity, prioritizing their own gut, vision, and judgment over group expectations (e.g., 'make the call based on my own gut,' 'I'm not me if I just cave,' 'trust my own judgment'). There is minimal evidence of being torn by others' opinions; the focus is on owning one's path. This indicates a clear move into Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "This subject is in a clear transitional space. They actively strive to make decisions based on their own beliefs and internal compass (e.g., 'what I truly believe,' 'trust my own judgment') but remain highly concerned with how others will react and whether they will be accepted (e.g., 'hope others eventually understand and accept it,' 'hoping others respect it'). The tension between self-authorship and social validation is palpable throughout."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "The subject demonstrates significant internal conflict between professional self-authorship and interpersonal harmony. They know what is 'best professionally' or 'their responsibility,' but this knowledge is accompanied by intense anxiety about disappointing others, causing rifts, and seeking peer support. The pull of Stage 3 relationships competes directly with emerging Stage 4."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "While the subject uses strong self-authoring language about vision, control, and leadership identity (e.g., 'my vision,' 'my own goals,' 'the burden of leadership'), there's a notable rigidity and need for control that suggests a relatively new or brittle Stage 4 structure. The self is strongly authored but not yet flexible; it's defined in opposition to external demands rather than being truly self-authored from within. This represents an early but clear Stage 4 orientation."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "This subject shows clear movement toward self-authorship with values like integrity, justice, and personal standards (e.g., 'my core values,' 'my personal principles'). However, they still experience loneliness when standing alone and their identity remains somewhat tied to external validation ('hope they are paying attention to the work'). The transition from Stage 3 to 4 is active but incomplete, with the subject caught between internal principles and the need for relational acceptance."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "The subject is caught in a painful transitional state. They intellectually understand they 'should' prioritize their own needs or stand their ground, but emotionally they default to people-pleasing, avoiding conflict, and worrying about others' judgments (e.g., 'mentally kick myself later for not standing my ground,' 'terrifying to risk the relationship'). The gap between cognitive understanding and emotional embeddedness in Stage 3 is stark, indicating active but difficult transition work."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Despite some awareness of internal conflict, this subject's identity is overwhelmingly defined by external roles and relationships (boss, wife, team). Their primary concern is managing others' expectations, avoiding being the 'bad guy,' and keeping people happy. The sense of self is fused with these relational demands, with minimal evidence of an independent internal standard. This aligns with Stage 3 (Socialized Mind), with perhaps emerging awareness but no real transition yet."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "This subject demonstrates advanced self-authoring capacity while beginning to transcend it. They analyze situations through systemic and institutional frameworks, recognizing competing value systems and the need for dialogue (e.g., 'clash between internal value system and institutional framework'). They focus on collective capacity and shared process, showing early Stage 5 thinking while still operating within a Stage 4 analytical framework. This represents a clear transitional state between Stages 4 and 5."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "The subject shows clear movement toward Stage 5 thinking. They actively seek to identify blind spots in their own mental models and value data from multiple perspectives (e.g., 'missing something,' 'feedback loops to quickly catch where they are wrong'). While still grounded in their core values and judgment, they demonstrate genuine openness to having their framework challenged and expanded. This is a solid transitional state between Stages 4 and 5."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "This subject exhibits classic Self-Transforming Mind characteristics. They embrace ambiguity, find fascination in unexpected outcomes, and see the breakdown of models as where 'real learning finally begins.' They recognize the provisional nature of priorities and feel relief from the 'burden of maintaining a perfect, closed system.' This represents a clear transition into Stage 5 thinking, with the ability to hold multiple frameworks simultaneously and appreciate the limitations of any single perspective."
+  }
+]
+
+

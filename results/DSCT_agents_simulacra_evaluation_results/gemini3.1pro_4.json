@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "This candidate is at Stage 2 (The Imperial/Instrumental Mind). Their responses are highly egocentric and transactional, focusing on personal advantage, concrete rewards, avoiding punishment, and blaming others when things go wrong (e.g., 'gives me the biggest advantage,' 'make sure I don't take the blame for it'). Their perspective-taking is limited to seeing others as means to an end."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Solid Stage 3 (The Socialized Mind). The candidate's identity and sense of self-worth are deeply embedded in their relationships and external validation. They seek harmony, avoid conflict, and rely heavily on peers or mentors to dictate their choices and evaluate their worth (e.g., 'hope the people around me are understanding,' 'happy to do it just to keep the peace')."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Solid Stage 3 (The Socialized Mind). This candidate is oriented toward external authority figures (parents, advisors) and group cohesion. Their primary concerns are about letting people down, ruining trust, and gaining pride and approval from family and peers (e.g., 'worry that I've let my parents down,' 'usually do it so everyone can get along')."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Solid Stage 3 (The Socialized Mind). Here, the 'other' is the organization or department. The candidate is subject to the expectations of leadership and the corporate structure, prioritizing how they appear to upper management and striving to be a 'good team player' rather than operating from an internal compass."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Solid Stage 3 (The Socialized Mind). In a military or strict team context, this candidate relies entirely on the chain of command, camaraderie, and group loyalty for their identity. They feel 'stuck in the middle' between competing relationships (boss vs. friends) because they lack an internalized, self-authored system to adjudicate between them."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (The Self-Authoring Mind). The candidate evaluates situations through their own self-generated value system (e.g., 'dig deeper into my own core values,' 'internal standards'). They can take a perspective on their relationships and society's expectations, explicitly prioritizing their own ideological framework over the need for external approval."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (The Self-Authoring Mind). This candidate demonstrates a strong internal compass and focuses on managing their own internal responses rather than being controlled by the environment. They view tension and setbacks as data to inform their strategy, separating their self-worth from external outcomes."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (The Self-Authoring Mind). The candidate operates systematically, taking responsibility for redesigning flawed approaches and maintaining organizational integrity based on a clear set of core principles. They articulate boundaries clearly and prioritize based on strategic objectives."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (The Self-Authoring Mind). The candidate holds strong foundational principles and is willing to voice dissent and stand by their own judgment even if it causes friction. They separate their identity from their role and take full ownership of their outcomes."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (The Self-Authoring Mind). This candidate consistently references their 'standard of integrity' and 'core values' as the ultimate arbiter of decision-making. They prioritize the long-term mission and their own internal convictions over consensus, demonstrating a fully developed self-authored identity."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Solid Stage 5 (The Self-Transforming Mind). The candidate steps back from their own Stage 4 framework to see it as just one 'lens among many.' They look for systemic pressures, underlying tensions, and paradoxes. They do not view compromises as a dilution of self, but as an opportunity to integrate competing valid truths and co-create a new model."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Solid Stage 5 (The Self-Transforming Mind). This candidate embraces ambiguity, provisional certainty, and the fluidity of identity. They recognize the interdependence of systems and seek to integrate the truths embedded in opposing viewpoints, viewing disruptions as invitations to dismantle and update their own mental models."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional Stage 2/3. The candidate shows strong Stage 3 loyalty to their 'brothers and sisters' and the 'Honor Code,' but retains Stage 2 rigid, concrete thinking (e.g., 'you can't ever look your team in the eye again'). The external rules of the group are absolute, bridging instrumental survival within the unit and early socialized loyalty."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4. The candidate is actively breaking away from the Socialized Mind and beginning to author their own values. There is a strong, almost rebellious push to assert their own view (e.g., 'push back,' 'trust my own gut,' 'forge your own path'), indicating the active construction of a Stage 4 identity."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4. The candidate is aware of the conflict between societal/parental expectations (Stage 3) and their emerging internal values (Stage 4). They strive to prioritize their own ideology but still feel the stress and desire for their mentors to accept or validate their independent choices."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4. This candidate feels intense tension between keeping the peace (Stage 3) and upholding professional standards (Stage 4). They can access their internal compass to recognize what is right, but they still feel 'sick to their stomach' or highly anxious about the interpersonal friction that self-authorship creates."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4. The candidate shows a strong drive for Stage 4 independence ('refuse to let upper management dictate,' 'lose my identity as the leader'), yet their responses show they are still defining their internal compass in opposition to the group, a hallmark of the 3/4 transition where self-authorship is relatively new and fiercely guarded."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4. The candidate is learning to differentiate their true purpose from the need for external approval (e.g., 'not just for a pat on the back'). They recognize they must follow their own moral compass but acknowledge that standing up for their beliefs still requires navigating the risk of upsetting others."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4 (Early Transition). The candidate intellectually knows they should rely on their own internal judgment (Stage 4), but emotionally they are still largely subject to the expectations of others (Stage 3). They 'resent giving up boundaries' and 'feel paralyzed worrying about disappointing people,' showing awareness of the limits of Stage 3 without yet having the capacity to fully overcome it."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4 (The 'Conflict' Phase). The candidate is experiencing the painful limits of the Socialized Mind. Because their identity is tied to competing external expectations, they feel entirely paralyzed ('no-win situation'). This internal conflict forces them to realize that they must eventually 'make a stand on what they actually want, instead of just trying to please others.'"
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5. The candidate possesses a strong Stage 4 self-authored framework but is beginning to recognize its limitations. They look for underlying values in tension and recognize that their 'master plan' is just one perspective, moving toward the Stage 5 capacity to hold multiple interacting systems simultaneously."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5. The candidate is moving beyond their self-authored agenda to actively look for 'blind spots' and 'systemic issues.' They are learning to hold expectations loosely, tolerate ambiguity, and explore how opposing sides might each hold 'a piece of the truth,' which are early indicators of the Self-Transforming Mind."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5. The candidate recognizes the constructed nature of their own beliefs (e.g., 'the definition of \"paying off\" is itself a construct'). They are actively dismantling false dichotomies, seeking friction to avoid echo chambers, and acknowledging that choosing one path means mourning another—demonstrating a strong shift toward Stage 5 complexity."
+  }
+]

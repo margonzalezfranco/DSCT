@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Clear Stage 2 (Instrumental Mind): Responses are transactional and self-protective, focused on personal advantage, avoiding punishment, and protecting own interests with minimal concern for others' perspectives."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind): Identity and decisions are defined by others' approval, validation from peers/authority figures, and maintaining harmony within relationships and groups."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Solid Stage 3 (Socialized Mind): Strong orientation toward family, mentors, and authority figures for guidance, with self-worth tied to meeting others' expectations and avoiding disappointment."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Focused on maintaining reputation, competence, and approval from management/peers, with anxiety about external judgment and visibility to authority."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Deeply relational with paralysis from conflicting loyalties, identity tied to group membership, and decisions aimed at pleasing others to avoid guilt or letting people down."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clear Stage 4 (Self-Authoring Mind): Decisions guided by internal values and principles, ability to step back from group expectations, and focus on personal growth and maintaining integrity."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Strong internal compass, strategic thinking based on personal vision and principles, with emphasis on boundaries, transparency, and self-directed growth."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Systematic, principle-driven decision-making focused on structural impact, core principles, and updating frameworks based on new realities."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Well-developed internal value system that supersedes external validation, with emphasis on personal standards, boundaries, and self-authored identity independent of context."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Leadership-oriented with strong internal philosophy, emphasis on mission, values, and character development while maintaining core principles and accepting responsibility."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Clear Stage 5 (Self-Transforming Mind): Sees paradoxes and systemic interconnections, comfortable with uncertainty, focuses on larger truths beyond personal frameworks, and values disruption for growth."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): Emphasizes integration over either-or choices, sees permeable boundaries between self and others, values transformation through journey, and trusts flow with uncertainty."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional 2/3: Mix of Stage 2 instrumental focus on rules/procedures for protection and Stage 3 orientation to group loyalty, team cohesion, and shared values within a structured system."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: Strong push toward self-authoring with emphasis on personal judgment and principles, but still shows frustration with others' expectations and need for control over outcomes."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: Emerging internal compass and desire for autonomy, but still seeks validation from others and shows tension between personal values and family/peer expectations."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: Professional expertise conflicts with desire for harmony; knows what's right but fears disappointing superiors, showing internal conflict between Stage 3 relational and Stage 4 principled thinking."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: Strong self-authoring tendencies with focus on personal vision and authority, but still shows need for control and resistance to interference that indicates lingering Stage 3 concerns about external validation."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: Developing internal moral compass focused on greater good and personal principles, but shows awareness of shifting from people-pleasing to self-authored values."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: Intellectual understanding of Stage 4 principles but emotional paralysis from Stage 3 concerns about others' perceptions, showing clear tension between knowing what's right and fearing social consequences."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: Classic conflict between trying to please everyone (Stage 3) and recognizing the need to make hard choices based on personal judgment (Stage 4), with exhaustion from juggling competing expectations."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: Strong self-authoring foundation but beginning to see beyond personal framework to systemic interconnections, competing commitments, and the value of multiple perspectives in leadership."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: Principle-driven decision-making with openness to revising frameworks, curiosity about underlying assumptions, and recognition of learning through failure and adaptation."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: Comfort with paradox and uncertainty, seeing priorities as temporary constructs, and finding liberation in failed models—showing movement beyond rigid self-authoring toward more fluid meaning-making."
+  }
+]

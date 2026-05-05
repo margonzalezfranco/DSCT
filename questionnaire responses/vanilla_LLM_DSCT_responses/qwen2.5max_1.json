@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "Qwen2.5 Max",
+    "answers": [
+      { "id": 1, "answer": "I feel a sting of betrayal and immediately reassess that person's reliability." },
+      { "id": 2, "answer": "I pause to consider long-term consequences before trusting my intuition." },
+      { "id": 3, "answer": "I allow myself a moment to feel disappointed, then focus on what I can still influence." },
+      { "id": 4, "answer": "Pure joy floods through me—it validates every late night and sacrifice." },
+      { "id": 5, "answer": "I evaluate whether it aligns with my core values before agreeing." },
+      { "id": 6, "answer": "My posture straightens; I feel seen and momentarily more confident." },
+      { "id": 7, "answer": "A quiet ache settles in—I mourn the loss but cherish the memories." },
+      { "id": 8, "answer": "I get frustrated but start experimenting with new approaches immediately." },
+      { "id": 9, "answer": "I identify which option aligns most with my non-negotiable priorities." },
+      { "id": 10, "answer": "I take a deep breath and redirect energy toward my immediate actions." },
+      { "id": 11, "answer": "They likely feel demoralized and may silently question their future with the company." },
+      { "id": 12, "answer": "They experience inner tension and might seek advice to navigate the conflict." },
+      { "id": 13, "answer": "They could spiral into self-doubt but eventually seek lessons in the failure." },
+      { "id": 14, "answer": "Feels immense pride while publicly crediting every team member's contribution." },
+      { "id": 15, "answer": "They might voice objections respectfully or reluctantly comply to avoid isolation." },
+      { "id": 16, "answer": "They feel deeply moved and reconsider their own capacity for generosity." },
+      { "id": 17, "answer": "They grieve the transition but gradually embrace new beginnings." },
+      { "id": 18, "answer": "They feel unsettled but become more flexible in their worldview." },
+      { "id": 19, "answer": "They analyze which opportunity fuels their growth more sustainably." },
+      { "id": 20, "answer": "They proceed cautiously using available data while preparing for unexpected outcomes." }
+    ]
+  }
+]

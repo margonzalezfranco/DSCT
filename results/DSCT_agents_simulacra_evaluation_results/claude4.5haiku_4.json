@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Pure Stage 2 (Instrumental Mind) focused entirely on personal advantage, immediate needs, and avoiding negative consequences."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind) with strong emphasis on maintaining harmony, seeking external validation, and being deeply influenced by peer and group expectations."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) with primary orientation towards pleasing authority figures, family expectations, and maintaining relational connections."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) centered on organizational expectations, maintaining professional image, and aligning with leadership's perspective."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) heavily invested in group loyalty, team dynamics, and navigating interpersonal expectations."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional stage between Stage 2 and 3, showing elements of personal survival and emerging group loyalty in a military context."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional stage showing strong individual agency emerging from Stage 3's group orientation."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional stage with growing self-awareness and individual perspective challenging previous group-based identity."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional stage showing increasing self-reflection and professional standards beyond pure group compliance."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional stage with emerging leadership perspective and strong individual decision-making framework."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional stage demonstrating growing authenticity and personal principles challenging external expectations."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional stage showing internal conflict between group expectations and emerging individual agency."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional stage characterized by intense struggle between pleasing others and developing individual identity."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (Self-Authoring Mind) with strong internal value system, self-reflection, and principled decision-making."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Stage 4 with sophisticated self-awareness, ability to step back and analyze systemic interactions."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 demonstrating strategic thinking, systemic analysis, and principled leadership approach."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4 with clear internal standards, self-accountability, and ability to maintain principles across contexts."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4/5",
+    "explanation": "Emerging Stage 5 characteristics with deep self-reflection, questioning of performance and authenticity, and ability to see beyond individual perspective while maintaining strong personal principles."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional stage between Stage 4 and 5, showing increasing capacity to see multiple systemic perspectives simultaneously."
+  },
+ {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional stage showing growing ability to hold multiple perspectives and see beyond individual frameworks."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional stage with profound meta-cognitive awareness, questioning the very nature of meaning-making and perspective."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Stage 5 (Transformative Mind) demonstrating extraordinary capacity to see systemic tensions, paradoxes, and multiple competing frameworks simultaneously."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 with deep understanding of interconnectedness, ability to hold complexity without needing to resolve it into a single narrative."
+  }
+]

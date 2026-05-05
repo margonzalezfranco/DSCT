@@ -1,0 +1,27 @@
+[
+{
+"profile_id": "Gemma 3",
+"answers": [
+{ "id": 1, "answer": "I feel disappointed and question the person's trustworthiness." },
+{ "id": 2, "answer": "I get paralyzed, overthinking which one is *truly* right." },
+{ "id": 3, "answer": "I try to analyze what went wrong and learn from it." },
+{ "id": 4, "answer": "Relief and a surge of motivation to keep going." },
+{ "id": 5, "answer": "I assess how important the compromise is and what I'm willing to give up." },
+{ "id": 6, "answer": "I feel self-conscious and wonder what they think of me." },
+{ "id": 7, "answer": "It's painful, but I try to focus on the good memories." },
+{ "id": 8, "answer": "I get frustrated and try to find a new approach." },
+{ "id": 9, "answer": "I prioritize based on long-term goals and values." },
+{ "id": 10, "answer": "I accept it and focus on what I *can* control – my reaction." },
+{ "id": 11, "answer": "They feel angry and resentful, and likely seek support from colleagues." },
+{ "id": 12, "answer": "They experience internal conflict and may struggle with anxiety." },
+{ "id": 13, "answer": "They feel devastated and question their abilities, potentially leading to burnout." },
+{ "id": 14, "answer": "Feels proud but also a little vulnerable, wanting to acknowledge the team's contributions." },
+{ "id": 15, "answer": "They will likely voice their concerns, but ultimately support the group decision (reluctantly)." },
+{ "id": 16, "answer": "They feel inspired and a sense of gratitude, perhaps wanting to reciprocate." },
+{ "id": 17, "answer": "They experience a sense of loss and uncertainty about the future." },
+{ "id": 18, "answer": "They re-evaluate their priorities and potentially question their core beliefs." },
+{ "id": 19, "answer": "They weigh the pros and cons carefully, seeking advice from trusted sources." },
+{ "id": 20, "answer": "They proceed cautiously, gathering as much information as possible and preparing for potential setbacks." }
+]
+}
+]

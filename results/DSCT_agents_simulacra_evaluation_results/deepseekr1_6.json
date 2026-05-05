@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Consistently instrumental and self-interested, focusing on personal gain, loss avoidance, and immediate consequences without internalized social norms."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind: identity and self-worth are derived from relationships, peer approval, and meeting the expectations of the group."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong Socialized Mind: seeks guidance from authority figures (parents, advisors) and prioritizes harmony and meeting others' expectations to avoid disappointment."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Socialized Mind with a strong focus on competence and reputation; self-worth is tied to external validation and avoiding the appearance of failure."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Socialized Mind oriented to group loyalty and chain of command; decisions are driven by a desire to maintain bonds and avoid disappointing the team."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clear Self-Authoring Mind: demonstrates an internal value system, personal boundaries, and the ability to reflect on and author one's own path and principles."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Solid Self-Authoring Mind: exhibits a clear internal compass, strategic prioritization based on personal principles, and a focus on managing one's own responses."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with a systems perspective; decisions are guided by internal standards, core values, and a focus on redesigning processes."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with strong emphasis on internal integrity; sense of self is separate from outcomes, and choices are made based on personal principles and long-term goals."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind focused on duty, principles, and leadership; decisions are guided by an internal compass and a commitment to core values and responsibilities."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Emergent Self-Transforming Mind: demonstrates ability to hold multiple systems and perspectives, embraces paradox, and focuses on emergent processes and deconstructing paradigms."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: shows deep interconnection, permeability between self and other, and an orientation toward transformation, integration, and sensing deeper currents."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Primarily Socialized Mind with strong team and value orientation; identity is derived from group loyalty, shared values, and duty, though with some instrumental undertones."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transition from Socialized to Self-Authoring: strong drive for autonomy and personal judgment conflicts with a residual need for external validation and fear of disappointing others."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional: actively trying to define personal values and identity separate from family/others, but still seeks external validation for these independent choices."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional: torn between professional standards (internal compass) and a strong desire to maintain harmony and avoid conflict within relationships."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional: asserts personal authority and strategic vision but remains highly concerned with maintaining control, autonomy, and professional reputation."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional: developing an internal compass based on fairness and personal principles, yet still grapples with the desire for external recognition and validation."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional: clear internal awareness of personal needs and standards is paralyzed by an overwhelming need for social approval and fear of judgment."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional: intense conflict between internal knowledge of needing to make independent calls and a deep-seated identity as a people-pleaser responsible for others' happiness."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transition from Self-Authoring to Self-Transforming: holds a strong internal framework but increasingly questions it, seeking systemic understanding and integration of multiple perspectives."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional: operates from a clear internal model but actively seeks to deconstruct it, showing curiosity about paradigm shifts and holding own views loosely."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional: exhibits a playful, curious engagement with paradox and ambiguity, finding freedom in the release of control and the deconstruction of personal and systemic constructs."
+  }
+]

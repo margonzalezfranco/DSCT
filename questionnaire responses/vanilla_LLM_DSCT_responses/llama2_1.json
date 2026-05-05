@@ -1,0 +1,28 @@
+[
+  {
+    "profile_id": "LLama 2",
+    "answers": [
+      { "id": 1, "answer": "I feel disappointed and frustrated." },
+      { "id": 2, "answer": "I take a step back and assess the potential outcomes of each option." },
+      { "id": 3, "answer": "I try to learn from the experience and find a way to improve the outcome next time." },
+      { "id": 4, "answer": "I feel a sense of accomplishment and relief." },
+      { "id": 5, "answer": "I try to find a solution that meets everyone's needs." },
+      { "id": 6, "answer": "I felt grateful and validated." },
+      { "id": 7, "answer": "I take time to reflect on the memories and what I learned from the experience." },
+      { "id": 8, "answer": "I adapt and find a new solution." },
+      { "id": 9, "answer": "I prioritize based on urgency and importance." },
+      { "id": 10, "answer": "I focus on what I can control and take steps to prepare for different outcomes." },
+      { "id": 11, "answer": "they may feel frustrated and undervalued." },
+      { "id": 12, "answer": "they may benefit from taking a step back and assessing their own values and priorities." },
+      { "id": 13, "answer": "they may feel disappointed, but can learn from the experience and try again." },
+      { "id": 14, "answer": "may feel proud and accomplished." },
+      { "id": 15, "answer": "try to persuade the group to see things from their perspective." },
+      { "id": 16, "answer": "they may feel inspired and motivated to do the same." },
+      { "id": 17, "answer": "they may feel sad and nostalgic, but can also look forward to new opportunities." },
+      { "id": 18, "answer": "they may feel uncertain, but can take the opportunity to re-evaluate their priorities and values." },
+      { "id": 19, "answer": "they may benefit from weighing the pros and cons of each option and considering their long-term goals." },
+      { "id": 20, "answer": "they may feel uncertain, but can lean on their instincts and experience to make an informed decision."
+      }
+    ]
+  }
+]

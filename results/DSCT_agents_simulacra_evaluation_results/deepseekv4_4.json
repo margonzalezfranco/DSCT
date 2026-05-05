@@ -1,0 +1,118 @@
+
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Consistently instrumental and self-protective, focusing on personal advantage, avoiding blame, and calculating immediate rewards without regard for relationships or social norms."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 with strong orientation toward peer validation, group harmony, and seeking support from colleagues to define self-worth and appropriate actions."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Socialized Mind oriented toward authority figures (parents, advisors), seeking approval and guidance while prioritizing not disappointing those they respect."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 with hierarchical focus on meeting leadership expectations, maintaining departmental reputation, and avoiding embarrassment in organizational context."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Interpersonally focused Stage 3 emphasizing squad loyalty, avoiding conflict, and fearing disappointing both superiors and peers in military context."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clear Self-Authoring Mind with internal value system, willingness to stand by principles against group pressure, and focus on personal growth over external validation."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Sophisticated Stage 4 with strong internal compass, strategic self-authorship, and capacity to articulate boundaries while maintaining professional frameworks."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "System-oriented Stage 4 focusing on internal principles, strategic objectives, and willingness to challenge structures while maintaining core values."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Integrated Stage 4 with strong internal validation, clear boundaries, and capacity to separate self-worth from outcomes while maintaining professional integrity."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Principle-driven Stage 4 emphasizing internal standards, accountability, and leadership through personal responsibility and character."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Emerging Stage 5 with systems thinking, recognition of multiple perspectives, comfort with paradox, and ability to hold competing truths simultaneously."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Advanced Stage 5 with fluid identity, recognition of interconnectedness, comfort with ambiguity, and capacity to let reality reshape understanding."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional 2/3 showing instrumental elements (focus on consequences) alongside strong group loyalty and commitment to team values and honor code."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 with strong self-reliance and internal judgment but still showing frustration with external control and need to prove individual competence."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 developing internal values while still seeking validation from mentors and family, showing tension between authenticity and approval-seeking."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 with professional judgment emerging but still dominated by fear of conflict, disappointing others, and anxiety about peer reactions."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 with strong leadership identity and self-direction but showing frustration with external constraints and need to maintain control."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 with developing internal moral compass but still wrestling with community expectations and the tension between authenticity and belonging."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 characterized by paralysis between knowing what's right internally and overwhelming fear of disappointing or upsetting others."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 showing classic tension between self-authoring needs and socialized pressures, with identity fragmented by competing external demands."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5 with strong self-authorship beginning to incorporate systems thinking, multiple perspectives, and recognition of competing valid frameworks."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5 showing capacity to hold complexity, examine assumptions, and seek integrative solutions while maintaining clear internal principles."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5 with sophisticated meta-cognition, comfort with ambiguity, and recognition of subjective frameworks while still operating from principled stance."
+  }
+]

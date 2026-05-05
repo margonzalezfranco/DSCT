@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The subject shows indicators of Stage 2 (Instrumental Mind)."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "The subject shows indicators of Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "The subject shows indicators of Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "The subject shows indicators of Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S3.4",
+    "stage": "2",
+    "explanation": "The subject shows indicators of Stage 2 (Instrumental Mind)."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "The subject shows indicators of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S4.2",
+    "stage": "2",
+    "explanation": "The subject shows indicators of Stage 2 (Instrumental Mind)."
+  },
+  {
+    "id": "S4.3",
+    "stage": "2/3",
+    "explanation": "The subject shows a mix of Stage 2 and Stage 3 indicators."
+  },
+  {
+    "id": "S4.4",
+    "stage": "3",
+    "explanation": "The subject shows indicators of Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S4.5",
+    "stage": "2",
+    "explanation": "The subject shows indicators of Stage 2 (Instrumental Mind)."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "The subject shows indicators of Stage 5 (Self-Transforming Mind)."
+  },
+  {
+    "id": "S5.2",
+    "stage": "2/3",
+    "explanation": "The subject shows a mix of Stage 2 and Stage 3 indicators."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "The subject shows indicators of Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "The subject shows indicators of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S34.2",
+    "stage": "4",
+    "explanation": "The subject shows indicators of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3",
+    "explanation": "The subject shows indicators of Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "The subject shows indicators of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "The subject shows indicators of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S34.6",
+    "stage": "2",
+    "explanation": "The subject shows indicators of Stage 2 (Instrumental Mind)."
+  },
+  {
+    "id": "S34.7",
+    "stage": "2/3",
+    "explanation": "The subject shows a mix of Stage 2 and Stage 3 indicators."
+  },
+  {
+    "id": "S45.1",
+    "stage": "2",
+    "explanation": "The subject shows indicators of Stage 2 (Instrumental Mind)."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4",
+    "explanation": "The subject shows indicators of Stage 4 (Self-Authoring Mind)."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "The subject shows indicators of Stage 5 (Self-Transforming Mind)."
+  }
+]

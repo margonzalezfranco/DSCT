@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The responses focus on self-interest, personal gain, and avoiding risks, characteristic of Stage 2 (Instrumental Mind), where decisions are driven by concrete, ego-centric advantages and immediate consequences."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "The answers emphasize relationships, peer approval, and maintaining group harmony, indicating Stage 3 (Socialized Mind), where identity is shaped by external expectations and social connections."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Responses show a strong orientation toward pleasing others, such as family and advisors, and avoiding disappointment, typical of Stage 3, where self-worth is tied to interpersonal relationships and social validation."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "The subject prioritizes reputation and expectations from superiors, with a focus on group dynamics and avoiding negative judgment, aligning with Stage 3's reliance on external authority and social norms."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Answers reflect deep concern for disappointing others and maintaining group cohesion, hallmarks of Stage 3, where personal decisions are influenced by relationships and the need for approval."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "The responses demonstrate self-directed decision-making based on internal values and principles, indicative of Stage 4 (Self-Authoring Mind), where the individual evaluates situations against their own standards."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "The subject shows a clear internal framework for decision-making, prioritizing personal vision and principles over external pressures, consistent with Stage 4's self-authoring approach."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Responses involve analyzing situations through personal principles and strategic goals, reflecting Stage 4, where the individual constructs their own meaning and adapts based on self-defined criteria."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "The answers reveal a strong internal value system that guides choices, even against social expectations, characteristic of Stage 4, where self-authorship overrides relational dependencies."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "The subject emphasizes personal principles and leadership philosophy in decisions, aligning with Stage 4, where internal convictions and responsibility take precedence over external influences."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Responses exhibit a systemic view, embracing paradoxes and multiple perspectives, as in Stage 5 (Self-Transforming Mind), where the individual integrates complexities and sees beyond personal or group frameworks."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "The answers show an ability to hold tensions and explore interconnectedness, indicative of Stage 5, where meaning-making is fluid, integrative, and focused on broader human systems."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "The responses mix self-interested actions (Stage 2) with group loyalty and shared values (Stage 3), indicating a transitional 2/3 stage where personal needs begin to incorporate social expectations."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "The subject shows elements of Stage 3's reliance on relationships alongside emerging self-directed decisions, marking a 3/4 transition where internal judgment starts to challenge external authority."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Answers blend concern for others' approval (Stage 3) with assertions of personal beliefs, reflecting a 3/4 transitional phase toward self-authoring and individual authenticity."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "The responses indicate internal conflict between group harmony (Stage 3) and professional expertise (Stage 4), signaling a 3/4 transition with growing self-reflection amid social pressures."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "The subject oscillates between relational concerns and personal authority in decisions, characteristic of a 3/4 transition, where self-direction begins to emerge from social dependencies."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Responses mix adherence to social expectations (Stage 3) with a focus on core values (Stage 4), indicating a 3/4 transitional stage of evolving personal principles."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "The answers show a blend of anxiety over external validation (Stage 3) and attempts at self-reliance (Stage 4), marking a 3/4 transition toward internal authorship."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "The subject expresses tension between pleasing others (Stage 3) and recognizing personal needs (Stage 4), reflecting a 3/4 transitional phase of balancing relational and self-authored identities."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Responses demonstrate Stage 4's internal principles while integrating multiple perspectives, indicating a 4/5 transition toward the systemic awareness of Stage 5."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "The subject shows self-authoring (Stage 4) alongside curiosity about broader contexts, signaling a 4/5 transitional stage with emerging integrative thinking."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Answers reflect Stage 4's personal frameworks with a fluid, paradoxical view (Stage 5), characteristic of a 4/5 transition toward more complex, adaptive meaning-making."
+  }
+]

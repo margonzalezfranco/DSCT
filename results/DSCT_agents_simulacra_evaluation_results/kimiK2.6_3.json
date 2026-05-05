@@ -1,0 +1,118 @@
+
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Instrumental Mind: every response is organized around personal advantage, self-protection, avoiding blame, and concrete consequences (e.g., 'cover my own ass,' 'get the grade,' 'biggest personal advantage')."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Socialized Mind (peer-oriented): identity and emotional regulation are embedded in colleagues' opinions, group harmony, and mutual validation (e.g., 'hope my colleagues don't think I did a bad job,' 'keeping the peace in the group')."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Socialized Mind (authority-oriented): the self is defined by alignment with parents, professors, and mentors who supply the 'right' path and expectations (e.g., 'ask my advisor or parents,' 'do what's expected of you')."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Socialized Mind (organizational): self-worth is derived from superiors' approval, team reputation, and meeting hierarchical expectations (e.g., 'look competent to leadership,' 'embarrassing to explain to the VP')."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Socialized Mind (institutional/team): identity is fused with squad loyalty, chain of command, and not letting buddies down (e.g., 'can't go against your own squad,' 'worry about what their team thinks')."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: consistently prioritizes an internal compass, core values, and self-authored goals over external validation or group pressure (e.g., 'aligns best with my core values,' 'life they are trying to author for themselves')."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: operates from personal frameworks, long-term vision, and mental models that can be critically updated while remaining internally grounded (e.g., 'update my mental models,' 'internal values framework')."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: evaluates situations through systemic, strategic lenses and stands by internally defined principles even when it creates friction (e.g., 'prioritize based on my own strategic objectives,' 'stand by their own internal compass')."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: identity transcends any single role; decisions are filtered through an internal meaning-making system and long-term self-authored vision (e.g., 'identity transcends that specific role,' 'self-authored goals')."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: guided by duty, character, and ultimate purpose; willing to stand alone and own consequences rather than conform (e.g., 'put duty and principle before self,' 'trust their judgment and own the consequences')."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: embraces paradox, sees the blur between self and other, and treats outcomes as feedback that dismantles old mental models (e.g., 'neither view holds the complete truth,' 'dismantle and rebuild')."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: recognizes co-creation, surrenders the illusion of control, and allows assumptions to dissolve and reform within an evolving system (e.g., 'mutual awareness co-creates the moment,' 'absolute certainty is an illusion')."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Socialized Mind (institutional): deeply embedded in military brotherhood, duty, and the Honor Code as an external but internalized value system (e.g., 'won't let my squad down,' 'rely on their core values and their peers')."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: decisive self-reliance, personal vision, and refusal to let external doubt override independent judgment (e.g., 'trust my own gut,' 'personal vision,' 'make the call')."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional: developing independent values and self-direction, but still heavily reliant on parents, mentors, and peers for validation and reassurance (e.g., 'my own values' yet 'hope people see my intentions were good')."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional: aware of an internal compass and professional judgment, yet paralyzed by fear of relational conflict and disappointing authority (e.g., 'put my core values first, but I worry constantly about how my colleagues will react')."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: strong leadership identity organized around autonomy, control, and refusing to be subject to others' whims (e.g., 'autonomy to steer the ship,' 'core authority and who they are')."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: prioritizes principles and authenticity over applause, with satisfaction derived from internal alignment rather than external recognition (e.g., 'not for the applause,' 'true north,' 'internal judgment')."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional: cognitively aware of the need to self-author and hold boundaries, but emotionally trapped in Stage 3 anxiety about being liked and avoiding conflict (e.g., 'know they should speak up, but stay quiet out of fear')."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Socialized Mind: identity is pulled apart by competing relational demands, with overwhelming fear of disappointing bosses, spouses, and teams (e.g., 'pulled apart in the middle,' 'hope they don't end up disappointing everybody')."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional: beginning to hold multiple valid worldviews and see systemic interconnection, while still referencing 'my own framework' and 'my own assumptions' (e.g., 'equally valid value systems,' 'mitigate their own blind spots')."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional: seeks integrative, third-way solutions and questions the completeness of mental models, yet retains a self-authored center (e.g., 'third, more comprehensive understanding,' 'my framework needs to evolve')."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: fully embraces impermanence, partial blindness, and the dissolution of rigid beliefs; treats every choice as an experiment and identity as uncoupled from any container (e.g., 'control was always an illusion,' 'choice is simply an experiment in living')."
+  }
+]

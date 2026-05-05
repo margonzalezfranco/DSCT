@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Clear indicators of Stage 2 (Instrumental Mind). The responses focus on personal gain, avoiding blame, and instrumental strategies."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses emphasize belonging, community, and interpersonal harmony."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses focus on relationships, support, and group expectations."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses highlight community, respect, and interpersonal connections."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses show a focus on group dynamics and maintaining harmony."
+  },
+  {
+    "id": "S4.1",
+    "stage": "3/4",
+    "explanation": "Transitional stage between 3 and 4. The responses show a mix of socialized mind and emerging self-authoring characteristics."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Clear indicators of Stage 4 (Self-Authoring Mind). The responses reflect internal values, self-direction, and autonomy."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Clear indicators of Stage 4 (Self-Authoring Mind). The responses emphasize personal principles and self-reflection."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Clear indicators of Stage 4 (Self-Authoring Mind). The responses show a focus on identity and self-directed purpose."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Clear indicators of Stage 4 (Self-Authoring Mind). The responses highlight autonomy and internal value systems."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Clear indicators of Stage 5 (Self-Transforming Mind). The responses reflect interdependence, systems thinking, and transformation."
+  },
+  {
+    "id": "S5.2",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses focus on group expectations and interpersonal harmony."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses emphasize community and belonging."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses show a focus on group dynamics and respect."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses highlight community and interpersonal connections."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses focus on group expectations and harmony."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Clear indicators of Stage 4 (Self-Authoring Mind). The responses reflect internal values and self-direction."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses emphasize group dynamics and belonging."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses show a focus on community and respect."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Clear indicators of Stage 3 (Socialized Mind). The responses highlight interpersonal connections and group expectations."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4",
+    "explanation": "Clear indicators of Stage 4 (Self-Authoring Mind). The responses reflect autonomy and internal value systems."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4",
+    "explanation": "Clear indicators of Stage 4 (Self-Authoring Mind). The responses emphasize self-direction and personal principles."
+  },
+  {
+    "id": "S45.3",
+    "stage": "2",
+    "explanation": "Clear indicators of Stage 2 (Instrumental Mind). The responses focus on personal gain and instrumental strategies."
+  }
+]

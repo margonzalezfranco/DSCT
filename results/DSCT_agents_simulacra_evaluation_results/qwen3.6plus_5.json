@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Instrumental reasoning dominates: decisions center on personal advantage, avoiding punishment, and concrete reciprocity ('biggest advantage with least risk,' 'keeps me out of trouble')."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Socialized Mind: identity and choices are governed by peer approval, harmony maintenance, and external expectations ('ask colleagues what to do,' 'keep the peace')."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Classic Stage 3: decisions are guided by guilt, family/authority approval, and fear of disappointing significant others ('what makes family proud,' 'listen to parents because they know best')."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Socialized Mind oriented to professional reputation: self-worth is contingent on external validation from hierarchy and peers ('prioritize what's visible to upper management')."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Group-loyalty variant of Stage 3: identity is fused with unit/squad expectations, with paralysis when external authorities conflict ('paralyzed trying to figure out if I should be loyal to friends or follow rules')."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: internal value system guides decisions, with capacity to critique relationships and stand by principles despite social cost ('weigh against core values,' 'stand by it even if it disappoints people')."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Developed Self-Authoring: explicit use of internal compass, strategic boundaries, and principled dissent ('define own voice,' 'speak up even if standing alone')."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Structural Self-Authoring: analyzes systems and processes, updates frameworks based on changing contexts while maintaining value-based priorities ('analyze underlying processes,' 'update frameworks')."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Integrity-focused Self-Authoring: distinguishes self-worth from outcomes, anchors decisions in personal principles rather than external validation ('self-worth isn't tied to result,' 'anchor in own values')."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Leadership-oriented Self-Authoring: internal philosophy guides accountability, tactical flexibility without value compromise ('follow internal compass even if disappointing others')."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: holds paradox, sees own meaning-making as partial, seeks integrative solutions beyond trade-offs ('two sides of a paradox,' 'sit with uncertainty until more complex approach reveals itself')."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Interdependent Self-Transforming: emphasizes co-creation, permeable boundaries, and systemic welfare over isolated interests ('beautiful permeability of human boundaries,' 'what serves health of whole system')."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional: instrumental loyalty to concrete codes (S2) blends with emerging socialized identity tied to group honor and peer expectations ('Honor Code,' 'mission and teammates come first')."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional: asserts personal principles and judgment (S4) while still reacting defensively to external disagreement ('make call based on own principles,' but concern with being seen as competent)."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional individuation: emerging internal values conflict with residual need for family/authority approval ('think about what I value, not just what family expects,' but still seeking recognition of autonomy)."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional professional conflict: knows own expertise (S4) but paralyzed by fear of disappointing authority figures ('torn between professional judgment and keeping good relationship with superiors')."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional leadership stance: strong self-authored boundaries and vision (S4) with residual reactivity to being undermined ('trust own gut,' but 'lose trust and step in to ensure job gets done my way')."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional values evolution: articulates commitment to core principles over approval (S4) while acknowledging the struggle of releasing people-pleasing patterns ('living to please others leaves you empty')."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Anxious transitional: cognitively endorses self-authoring but emotionally subject to social judgment ('know what's right in head but freezing when time to act because don't want to be seen as difficult')."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Conflict-avoidant transitional: explicitly torn between competing external expectations (S3) with emerging insight about needing to decide based on own judgment ('finally decide what I actually think is right')."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional to Self-Transforming: integrates multiple value systems and holds paradox (S5) while still authoring from a coherent internal framework (S4) ('look for third way that integrates underlying values')."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Emerging Self-Transforming: deconstructs false binaries and embraces systemic learning ('letting real world dismantle rigid assumptions') while maintaining adaptive self-authoring capacity."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Advanced transitional: explicit constructivist awareness that priorities and identities are contextual constructions ('priorities are just useful fictions,' 'space in which identities come and go'), signaling strong movement toward Stage 5."
+  }
+]

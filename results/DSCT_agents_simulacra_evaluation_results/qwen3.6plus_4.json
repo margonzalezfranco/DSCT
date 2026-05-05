@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Instrumental Mind: responses center on personal advantage, avoiding blame, and concrete reciprocity ('what's owed to me') without relational or internal value complexity."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Socialized Mind: identity and decisions are shaped by relationships, external validation, and maintaining group harmony ('keep the peace,' 'ask friends what to do')."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Socialized Mind: orientation to family/authority expectations with guilt about disappointing others and seeking external approval for decisions."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Socialized Mind: identity tied to organizational perception and hierarchy; decisions guided by 'what the VP would prefer' and avoiding looking incompetent."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Socialized Mind: loyalty to squad and chain of command defines identity; anxiety stems from fear of letting down others rather than internal conflict."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: internal value system guides decisions ('my own core values,' 'who I want to be') with capacity to dissent from group consensus."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: clear internal framework and boundaries; decisions reference 'my broader goals' rather than external approval or harmony."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: strategic decisions guided by internal principles and organizational goals; takes perspective on systems rather than being subject to them."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: foundational principles supersede compromise; 'trust my own judgment' and take ownership of consequences regardless of external validation."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: leadership perspective with internal convictions ('my own compass') guiding action while acknowledging but not being ruled by others' input."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: comfort with paradox ('holding that tension'), systemic thinking, and recognition that one's values are 'one lens among many.'"
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: dialectical integration of competing truths, interdependence awareness, and identity fluidity beyond fixed frameworks."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Socialized Mind (military context): identity defined by squad loyalty, Honor Code, and chain of command; decisions oriented to 'what the uniform represents.'"
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional: emerging self-authorship ('trust my own gut') but still negotiating external expectations; identity shifting from group-defined to self-authored."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional: internal values emerging ('aligns with my own values') but tension persists with desire for social acceptance and fear of disappointing others."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional: professional judgment emerging but dominated by relational anxiety; 'agonize over team dynamic' shows Stage 3 subjectivity with Stage 4 awareness."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: clear leadership identity with boundaries ('refuse to let upper management dictate core details') and internal decision-making authority."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: authenticity-focused with internal standards ('what's truly important') guiding choices over popularity or external expectations."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional: boundary awareness present ('gave up my boundaries again') but difficulty maintaining them against social pressure shows Stage 3 dominance with emerging Stage 4."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Socialized Mind: paralysis from fear of disappointing others; decisions framed as 'pick who to disappoint' rather than guided by internal framework."
+  },
+  {
+    "id": "S45.1",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: systemic perspective with comfort holding multiple valid frameworks; seeks 'third way' synthesis rather than choosing between competing values."
+  },
+  {
+    "id": "S45.2",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: framework awareness ('current framework has reached its limits') with curiosity about integrating competing truths rather than resolving tension."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: sophisticated meta-awareness of constructed reality, paradox, and ambiguity; decisions made with 'provisional certainty' amid inherent uncertainty."
+  }
+]

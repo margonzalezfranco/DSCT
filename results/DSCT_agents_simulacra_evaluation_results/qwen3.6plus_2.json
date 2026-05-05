@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Responses center on personal gain, avoiding blame, and instrumental reciprocity ('look out for number one', 'get the reward I earned'), characteristic of the Instrumental Mind."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Identity and decisions are oriented toward peer approval, group harmony, and avoiding disappointment, reflecting the Socialized Mind's relational definition of self."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong orientation to parental/mentor expectations and maintaining relationships ('keep everyone happy', 'don't disappoint'), classic Socialized Mind patterns."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Focus on organizational reputation, executive expectations, and being a 'team player' shows identity embedded in institutional relationships (Socialized Mind)."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Military context responses emphasize loyalty, camaraderie, and chain of command approval, with self-worth tied to group belonging (Socialized Mind)."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Demonstrates internal value system ('core values', 'own boundaries') that guides decisions independently of external approval, hallmark of Self-Authoring Mind."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Uses 'internal compass', 'core principles', and self-authored frameworks to evaluate situations, showing capacity to take perspective on relationships rather than be subject to them."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Strategic, systems-oriented thinking with 'core principles' and 'long-term impact' prioritization reflects Self-Authoring capacity to author one's own standards."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Balances recognition with internal validation ('worth isn't solely tied to outcome'), showing self-authored identity separate from external feedback."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Leadership-focused responses emphasize 'foundational principles', 'mission', and taking ownership, demonstrating Self-Authoring capacity to hold and enact personal standards."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Responses show meta-awareness of meaning-making ('examine competing commitments', 'hold conclusions lightly'), paradox integration, and systems thinking characteristic of Self-Transforming Mind."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Emphasizes mutual co-creation, fluid identity ('everything changes'), and holding ambiguity, reflecting Self-Transforming capacity to transcend fixed frameworks."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Mix of instrumental concerns (personal advancement) with emerging socialized orientation (Honor Code, team loyalty), showing transition between self-interest and group-defined identity."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Tension between external validation needs and emerging self-authoring ('trust my own judgment'), showing transition from socialized to self-authored identity."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Struggles between family/peer expectations and personal beliefs ('figure out what I actually believe'), characteristic of 3/4 transition."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Professional context shows conflict between team harmony and personal standards ('can't compromise on what is best'), indicating 3/4 transitional meaning-making."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Leadership responses show emerging self-authoring ('make the call') but still concerned with being seen as decisive, reflecting 3/4 transition."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Social justice orientation with internal compass emerging but still seeking external validation, showing 3/4 transitional patterns."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Strong anxiety about disappointing others alongside emerging self-prioritization, classic 3/4 tension between external and internal authority."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Intense conflict about pleasing everyone ('agonizing', 'torn'), showing the painful transition from socialized harmony-seeking to self-authored boundary-setting."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Self-authored framework with emerging capacity to hold paradox ('synthesis that honors underlying values'), showing transition toward Self-Transforming meaning-making."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Strategic thinking with openness to contradictory data and framework evolution, indicating 4/5 transitional capacity."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Meta-awareness of meaning-making limits ('frameworks break down'), comfort with paradox and impermanence, showing advanced 4/5 transition toward Self-Transforming Mind."
+  }
+]

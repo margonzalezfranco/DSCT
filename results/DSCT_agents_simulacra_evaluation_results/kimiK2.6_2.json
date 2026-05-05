@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The subject consistently frames relationships and situations in instrumental, transactional terms, prioritizing self-interest, personal gain, protection from blame, and cost-benefit calculation over mutual connection or internal values."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind); the subject's identity, emotional regulation, and decision-making are fully embedded in peer relationships, external validation, group harmony, and fear of social judgment."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "The subject orients primarily to the expectations and approval of authority figures and close relationships, defining self-worth through meeting external standards, seeking advice, and avoiding disappointment."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Strong institutional Socialized Mind; the subject's identity is organized around organizational image, executive expectations, team reputation, and being seen as a competent, reliable group member."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "The subject is deeply embedded in military culture, defining self through squad loyalty, chain of command, camaraderie, and acute anxiety about letting down the group or violating relational trust."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (Self-Authoring Mind); the subject demonstrates a coherent internal value system, personal boundaries, self-validation, and the capacity to take perspective on relationships rather than being subject to them."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "The subject operates from a well-developed internal framework, using mental models, core values, and self-authored principles to navigate ambiguity, set boundaries, and objectively learn from experience."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "The subject exhibits robust systems thinking within a self-authored framework, prioritizing strategic alignment, feedback loops, process redesign, and principled dissent over relational approval or institutional conformity."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "A dominant leader identity and uncompromising autonomy define the subject's self-authored framework, with decisive ownership, independent judgment, and control over outcomes prioritized over interpersonal harmony."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "The subject demonstrates a mature self-authored leadership philosophy anchored in foundational principles, internal convictions, and character-based standards that transcend consensus while maintaining accountability."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind; the subject holds their own framework lightly, embracing paradox, systemic complexity, continuous reconstruction of meaning, and the dissolution of rigid self-authored identity."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "The subject exhibits co-creative meaning-making, mutual identity formation, surrender to emergent process, and dissolution of rigid self-other boundaries in favor of fluid, evolving interdependence."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "The subject shows emerging Stage 3 group loyalty and duty orientation but still relies heavily on external codes, training, and procedural compliance rather than fully internalized mutual relationships, suggesting a transitional position between instrumental and socialized meaning-making."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "The subject has established a strong self-authored identity organized around autonomy, independent judgment, and personal authority, with clear rejection of group-dependent decision-making and emphasis on owning outcomes."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "The subject shows emerging self-authorship through core values and personal vision, but still seeks external validation and struggles with family expectations and social approval, reflecting a mix of socialized and self-authoring features."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "The subject demonstrates clear tension between professional self-authorship and socialized relational concerns, agonizing over boundaries while still fearing judgment, guilt, and disappointing others."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "The subject operates from a firmly self-authored leader identity that emphasizes decisive autonomy, personal responsibility, and unilateral authority, with minimal evidence of socialized concern for group approval."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "The subject operates from a deeply internalized moral compass focused on justice and authentic impact, having largely transcended the need for external validation while maintaining principled, values-driven action."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "The subject is caught between emerging self-authored awareness and powerful socialized fears, repeatedly prioritizing others' comfort and approval over their own stated values and needs."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "The subject is overwhelmingly governed by socialized concerns of disappointing others and maintaining harmony, with only nascent awareness of personal standards amid intense relational anxiety and conflict avoidance."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "The subject demonstrates emerging Stage 5 capacity to hold multiple paradigms, embrace paradox, and deconstruct ideological structures, while still operating from and returning to a coherent self-authored framework."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "The subject shows strong transitional features, actively seeking to integrate competing perspectives, hold frameworks loosely, and let old identities dissolve in favor of more inclusive, dynamically evolving systems."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "The subject fully inhabits Self-Transforming Mind, treating all frameworks as partial and impermanent, embracing deconstruction, paradox, and the dissolution of rigid identity boundaries in favor of continuous evolution."
+  }
+]

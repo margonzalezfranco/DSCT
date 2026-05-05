@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Solid Stage 2 (Imperial Mind). The subject consistently operates from self-interest, viewing relationships as transactional, seeking personal advantage, avoiding punishment, and seeing others as means to an end. Every response centers on 'what's in it for me' with no evidence of internalized group values or self-authored principles."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) — military/institutional variant. The subject is deeply embedded in squad loyalty, the Honor Code, chain of command, and collective identity. They define self through brotherhood, seek peer and authority validation, and experience meaning through team membership. Despite military discipline language, they operate from external codes and group belonging rather than internally authored principles."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind) — peer-oriented variant. The subject's identity, emotional regulation, and decision-making are thoroughly embedded in interpersonal relationships and peer approval. They seek external validation, maintain harmony, depend on colleagues for guidance, and experience self-worth through group acceptance. They cannot stand apart from the group's expectations."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind) — authority/family-oriented variant. The subject orients to parental and advisor expectations, fears disappointing authority figures, seeks family pride, and defines self through roles and responsibilities to important others. Their internal experience is constituted by relationships with authority figures."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) — institutional/organizational variant. The subject's identity is embedded in organizational hierarchy and image management. They orient to VP preferences, worry about departmental reputation, seek executive approval, and define success through institutional visibility. The 'company' and 'leadership' are the constitutive authorities."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) — military/team loyalty variant. The subject is embedded in squad loyalty, chain of command, and dual conformity to peers and superiors. Identity is constituted by camaraderie and unit belonging. They experience distress when torn between competing loyalties because they lack an internal framework to adjudicate conflicts."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — assertive/independent variant. The subject demonstrates strong self-reliance, internal authority, and refusal to conform for harmony's sake. They forge their own path, create self-authored systems, and define themselves independently of any environment. There is clear evidence of an internal compass guiding all decisions."
+  },
+  {
+    "id": "S34.2",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — identity-development variant. The subject prioritizes their own values and ideology over family expectations, seeks authentic self-expression, and builds an independent perspective. Minor residue of seeking mentor validation suggests recent transition from Stage 3, but the dominant pattern is self-authored meaning-making."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Stage 3/4 (Transitional). The subject demonstrates a clear tension between Stage 3 relational concerns (fear of disappointing others, team anxiety, guilt about group dynamics) and emerging Stage 4 capacities (professional judgment, inner compass, standing by assessment). They can articulate self-authored perspectives but remain emotionally tethered to group approval, indicating active transition."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — leadership/assertive variant. The subject demonstrates strong internal authority, strategic self-direction, boundary-setting, and refusal to let external management dictate core decisions. They define leadership as vision-setting and principled decision-making, taking full ownership of outcomes while maintaining team accountability."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — authentic/values-driven variant. The subject prioritizes authenticity over performance, core beliefs over popularity, and impact over credit. They evaluate choices against personal principles and true purpose, demonstrating a well-developed internal moral compass that guides decision-making independently of external validation."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Stage 3/4 (Transitional). The subject shows awareness of what self-authored behavior would look like (holding others accountable, setting boundaries, trusting own judgment) but remains emotionally unable to execute it, instead falling into people-pleasing, guilt, and anxiety about disappointing others. This gap between knowing and doing is characteristic of transition."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) — people-pleaser variant. The subject is thoroughly embedded in others' expectations, experiencing paralysis, anxiety, and self-definition through the approval of multiple constituencies (boss, wife, team, family). They cannot imagine a self independent of these relational demands and experience saying 'no' as causing misery."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (Self-Authoring Mind). The subject consistently demonstrates an internal value system that supersedes interpersonal relationships and external expectations. They evaluate situations against core principles, take ownership of decisions, set boundaries, and can stand apart from group consensus. They author their own framework for meaning-making."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — reflective/observational variant. The subject exhibits strong internal priorities, self-directed learning, and the capacity to step back and observe their own reactions. They design new approaches based on internal frameworks, can hold their own perspective under pressure, and author their understanding of experience."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — organizational/systems variant. The subject demonstrates principled leadership with an internal framework that guides organizational decision-making. They can evaluate and redesign systems, hold integrity boundaries, and take quiet pride in structural contributions while remaining accountable. They manage competing demands through an internal operational framework."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — balanced/grounded variant. The subject shows consistent reliance on core values and long-term goals, principled flexibility, internal motivation, and the capacity to separate self-worth from project outcomes. They can stand by their judgment while maintaining professional relationships, demonstrating mature self-authorship."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) — leadership/mission-oriented variant. The subject demonstrates strong internal convictions tied to character and mission, takes full ownership of outcomes, upholds integrity standards under pressure, and leads from internally authored principles. They can risk alienation from group consensus in service of their values."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Stage 4/5 (Transitional). The subject demonstrates strong Stage 5 capacities — systemic thinking, holding multiple valid perspectives, creating containers for dialogue, recognizing competing institutional commitments — while still maintaining some Stage 4 self-authored structure (e.g., 'my agenda,' 'my vision'). They are beginning to see their own framework as one lens among many."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Stage 4/5 (Transitional). The subject shows advanced capacity for integrating conflicting perspectives, finding third ways, examining foundational assumptions, and holding expectations loosely. They remain somewhat anchored in their 'current framework' but are increasingly alert to its limits and open to being proven wrong."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind) — most advanced variant. The subject fully embraces paradox, deconstructs meaning-making itself, finds excitement at the boundaries of models, and holds all frameworks as provisional. They see dissent as necessary friction, recognize the constructed nature of success metrics, and understand that choosing always involves mourning the unchosen. This represents the highest order of meaning-making."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind). The subject can hold their own framework as one perspective among many, embraces paradox and systemic complexity, seeks disconfirming evidence, and recognizes the limits of any single mental model. They see friction as generative, value dissent for group health, and understand that no framework is ever complete."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind) — relational/integrative variant. The subject demonstrates profound interdependence awareness, holds multiple valid viewpoints simultaneously, sees truth as residing in the interplay between perspectives, and embraces the fluidity of identity. They act with provisional certainty and allow reality to reshape their understanding."
+  }
+]

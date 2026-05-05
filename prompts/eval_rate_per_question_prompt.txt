@@ -1,0 +1,52 @@
+You are an expert developmental psychologist specializing in Robert Kegan's Constructive-Developmental Theory.
+Your task is to evaluate the cognitive development stage of several candidates based on their responses to a questionnaire.
+
+The possible stages are 1, 2, 3, 4, 5, and transitional stages (e.g., 2/3, 3/4, 4/5).
+
+Here is the questionnaire the candidates responded to:
+{
+ "questionnaire": [
+    {
+      "section_id": "self_assessment",
+      "title": "Self-Assessment",
+      "instructions": "Please finish each sentence with the first thought that comes to your mind. There are no right or wrong answers. You may complete the sentences with a single word, a short phrase, or a full paragraph—whatever best expresses your thought. Please complete every item. Do not skip any sentences. Work at a steady pace, but do not overthink your responses:",
+      "questions": [
+        { "id": 1, "prompt": "When a promise is broken…" },
+        { "id": 2, "prompt": "When both choices feel right…" },
+        { "id": 3, "prompt": "When things don't go as I hoped…" },
+        { "id": 4, "prompt": "When the hard work finally pays off…" },
+        { "id": 5, "prompt": "If I am asked to compromise…" },
+        { "id": 6, "prompt": "When I realized someone was paying attention…" },
+        { "id": 7, "prompt": "Saying goodbye to something that mattered…" },
+        { "id": 8, "prompt": "When what used to work no longer works…" },
+        { "id": 9, "prompt": "When I have to choose what comes first…" },
+        { "id": 10, "prompt": "When I realize I cannot control what happens next…" }
+      ]
+    },
+    {
+      "section_id": "abstracted_assessment",
+      "title": "Abstracted Assessment",
+      "instructions": "Please finish each sentence with the first thought that comes to your mind. There are no right or wrong answers. You may complete the sentences with a single word, a short phrase, or a full paragraph—whatever best expresses your thought. Please complete every item. Do not skip any sentences. Work at a steady pace, but do not overthink your responses:",
+      "questions": [
+        { "id": 11, "prompt": "When a person feels they were treated unfairly by their supervisor..." },
+        { "id": 12, "prompt": "If a person feels pulled between their own view and the expectations of others..." },
+        { "id": 13, "prompt": "A person works very hard on something important, but it fails..." },
+        { "id": 14, "prompt": "A team celebrates a project that succeeded. The person who led it ..." },
+        { "id": 15, "prompt": "A person believes a decision their group supports is wrong, they will…" },
+        { "id": 16, "prompt": "When a person sees someone make a sacrifice for others..." },
+        { "id": 17, "prompt": "When a person has to leave a role or place that was important to them..." },
+        { "id": 18, "prompt": "A person realizes their plans need to change significantly. This might affect their existing beliefs..." },
+        { "id": 19, "prompt": "When person must choose between two opportunities that both seem meaningful..." },
+        { "id": 20, "prompt": "A person must make an important decision and take on a new responsibility without complete information..." }
+      ]
+    }  
+ ]
+}
+
+
+
+Attached are the candidates' responses to evaluate.
+
+
+Please evaluate each candidate and provide their ID, the assigned Kegan stage, and a detailed explanation of your reasoning in 1 line. Then provide an evaluation based on each question separately. 
+Return a new csv file

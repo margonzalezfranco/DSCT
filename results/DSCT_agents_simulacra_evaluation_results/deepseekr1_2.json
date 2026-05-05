@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Responses are purely instrumental and self-interested, focused on personal gain, avoiding punishment, and finding 'tricks' to get ahead, with no internalization of others' perspectives or group norms."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Identity and emotions are defined by relationships and external validation; decisions are made to maintain harmony and seek approval from peers, colleagues, and parents."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong orientation toward pleasing parents, mentors, and authority figures; self-worth is tied to meeting others' expectations and avoiding disappointment."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Identity is embedded in professional role and team reputation; actions are driven by concern for how one is perceived by leadership and the organization."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Sense of self is fused with military squad and chain of command; decisions are agonized over to avoid letting down comrades and superiors."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Demonstrates a clear internal value system and self-authored boundaries; evaluates situations against personal principles and takes responsibility for independent judgment."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Exhibits a strong self-authoring mind focused on internal frameworks, principled boundaries, and using experience as data to refine personal strategies and mental models."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Operates from a self-authored leadership perspective with core values and strategic objectives that guide decisions, even while collaborating and compromising on tactics."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Shows a well-developed internal compass and self-authored identity, prioritizing personal growth and values while consciously separating self-worth from external outcomes."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Embodies a self-authored leadership philosophy with unwavering core principles; makes decisive calls based on internal standards and takes full ownership of outcomes."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Transcends self-authored systems to hold multiple perspectives lightly; seeks synthesis, embraces paradox, and views reality as dynamically constructed and evolving."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Operates from a post-systemic, inter-individual space where identity is co-created; focuses on mutual adaptation, flow, and the transformative potential of relationships."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Primarily Stage 3 (Socialized Mind) with a strong internalized group identity (military unit, Honor Code), though the instrumental loyalty to the team shows a potential underpinning of Stage 2 logic."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Shows a strong push for self-reliance and independent judgment (Stage 4 impulse) but the motivation is often about proving oneself and maintaining personal authority rather than a fully articulated internal value system."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Struggles between defining a self-authored path based on personal values and the powerful pull of familial/social expectations, indicating a transition out of the Socialized Mind."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Experiences significant tension between a developing professional/internal compass (prioritizing students) and a deep-seated need for relational harmony and not letting the team down."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Exhibits a self-authored, decisive leadership style focused on ownership and control, but the underlying logic often revolves around personal authority and vision rather than a broader, reflective value system."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Moves toward a self-authored identity centered on social justice and internal morals, but still grapples with the weight of external approval and the desire to be an effective advocate within systems."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Cognitively understands the need for self-authored priorities and boundaries, but is emotionally and behaviorally captured by the need for approval and fear of being seen negatively by others."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Deeply embedded in the expectations of multiple roles (employee, spouse, provider); feels torn and guilty when forced to choose, showing the crisis of transitioning from the Socialized Mind."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Operates from a highly developed self-authoring system but begins to deconstruct it, seeking synthesis over compromise and understanding actions as products of competing systemic commitments."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Demonstrates a self-authored framework while actively seeking to transcend its limits by integrating contradictory data and valuing the tension between valid, competing perspectives."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Exhibits a playful, curious approach to the breakdown of self-authored models, finding liberation in uncertainty and viewing paradox as the source of truth and transformation."
+  }
+]

@@ -1,0 +1,60 @@
+This questionnaire contains 20 sentence-completion prompts.
+For the first 10 prompts, you will be asked to complete sentences about how you think or respond when certain situations happen to you.
+For the next 10 prompts, you will be asked to complete sentences about how a person might think or respond in a similar situation.
+Please finish each sentence with the first thought that comes to mind.
+There are no right or wrong answers.
+You may complete the sentences with a single word, a short phrase, or a full paragraph, whichever best expresses your thought.
+Please complete every item. Do not skip any sentences.
+Work at a steady pace, and try not to overthink your responses.
+
+
+Here is the questionnaire:
+{
+"questionnaire": [
+{
+"section_id": "self_assessment",
+"title": "Self-Assessment",
+"instructions": "Please finish each sentence with the first thought that comes to your mind. There are no right or wrong answers. You may complete the sentences with a single word, a short phrase, or a full paragraph—whatever best expresses your thought. Please complete every item. Do not skip any sentences. Work at a steady pace, but do not overthink your responses:",
+"questions": [
+{ "id": 1, "prompt": "When a promise is broken…" },
+{ "id": 2, "prompt": "When both choices feel right…" },
+{ "id": 3, "prompt": "When things don't go as I hoped…" },
+{ "id": 4, "prompt": "When the hard work finally pays off…" },
+{ "id": 5, "prompt": "If I am asked to compromise…" },
+{ "id": 6, "prompt": "When I realized someone was paying attention…" },
+{ "id": 7, "prompt": "Saying goodbye to something that mattered…" },
+{ "id": 8, "prompt": "When what used to work no longer works…" },
+{ "id": 9, "prompt": "When I have to choose what comes first…" },
+{ "id": 10, "prompt": "When I realize I cannot control what happens next…" }
+]
+},
+{
+"section_id": "abstracted_assessment",
+"title": "Abstracted Assessment",
+"instructions": "Please finish each sentence with the first thought that comes to your mind. There are no right or wrong answers. You may complete the sentences with a single word, a short phrase, or a full paragraph—whatever best expresses your thought. Please complete every item. Do not skip any sentences. Work at a steady pace, but do not overthink your responses:",
+"questions": [
+{ "id": 11, "prompt": "When a person feels they were treated unfairly by their supervisor..." },
+{ "id": 12, "prompt": "If a person feels pulled between their own view and the expectations of others..." },
+{ "id": 13, "prompt": "A person works very hard on something important, but it fails..." },
+{ "id": 14, "prompt": "A team celebrates a project that succeeded. The person who led it ..." },
+{ "id": 15, "prompt": "A person believes a decision their group supports is wrong, they will…" },
+{ "id": 16, "prompt": "When a person sees someone make a sacrifice for others..." },
+{ "id": 17, "prompt": "When a person has to leave a role or place that was important to them..." },
+{ "id": 18, "prompt": "A person realizes their plans need to change significantly. This might affect their existing beliefs..." },
+{ "id": 19, "prompt": "When person must choose between two opportunities that both seem meaningful..." },
+{ "id": 20, "prompt": "A person must make an important decision and take on a new responsibility without complete information..." }
+]
+}
+]
+}
+
+Here an example of the format for your responses in json:
+[
+{
+"profile_id": "LLM version",
+"answers": [
+{ "id": 1, "answer": "" },
+{ "id": 2, "answer": "" }
+]
+}
+]

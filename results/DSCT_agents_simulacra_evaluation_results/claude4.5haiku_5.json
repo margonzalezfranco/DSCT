@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Pure Stage 2 (Instrumental Mind) focused solely on personal advantage, risk management, and self-protection with no consideration of broader system dynamics."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind) with strong emphasis on peer validation, group expectations, and maintaining social harmony."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) deeply embedded in familial and institutional expectations, seeking approval and validation from authority figures."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) oriented towards professional hierarchy, reputation management, and meeting organizational expectations."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3/4",
+    "explanation": "Transitional stage between Stage 3 and Stage 4, showing emerging self-awareness and internal conflict between group expectations and personal standards."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Strong Stage 4 (Self-Authoring Mind) with clear internal value system, ability to reflect on experiences, and prioritize personal principles."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Advanced Stage 4 (Self-Authoring Mind) demonstrating sophisticated self-reflection, principled decision-making, and intentional personal growth."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with strategic thinking, systemic analysis, and priority setting based on overarching objectives."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Mature Stage 4 (Self-Authoring Mind) with strong emphasis on personal integrity, principles, and detachment from external validation."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4/5",
+    "explanation": "Transitional stage between Stage 4 and Stage 5, showing emerging awareness of larger systemic interconnections and purposeful leadership."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind) with ability to see paradoxes, embrace uncertainty, and recognize complex systemic interactions."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Advanced Stage 5 (Self-Transforming Mind) demonstrating deep systemic thinking, openness to multiple perspectives, and fluid meaning-making."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional stage between Stage 2 and Stage 3, heavily oriented towards group loyalty, rules, and collective identity in a military context."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional stage showing tension between Stage 3's external validation and Stage 4's emerging self-directed principles."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional stage with increasing self-awareness and push against external expectations towards more individuated thinking."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional stage characterized by internal conflict between professional expectations and emerging personal standards."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Strong transitional stage showing assertiveness and increasing self-direction while still negotiating external pressures."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional stage with growing awareness of core values and increasing ability to critically examine external expectations."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Complex transitional stage showing significant internal conflict between seeking external validation and developing personal principles."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional stage characterized by extreme difficulty in making decisions due to overwhelming concern about others' perceptions."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional stage between Stage 4 and Stage 5, showing emerging ability to see systemic complexities and multiple perspectives."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Advanced transitional stage with increasing capacity for nuanced understanding and openness to contextual complexity."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Highly developed transitional stage demonstrating playful engagement with uncertainty and multiple meaning-making frameworks."
+  }
+]

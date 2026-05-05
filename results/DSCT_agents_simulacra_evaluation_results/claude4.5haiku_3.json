@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Pure Stage 2 (Instrumental Mind): All responses center on personal advantage, avoiding punishment, and self-protection; completely focused on 'what's in it for me' with no consideration of relationships, group harmony, or internal values."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Identity and decisions are entirely dependent on peer validation, avoiding group conflict, seeking approval from colleagues; anxiety about being judged; needs others' support to feel okay."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Decisions driven by pleasing authority figures (parents, professors, mentors); guilt about disappointing others; seeks guidance from external authorities; fears conflict and prioritizes harmony over personal conviction."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Oriented to upper management's expectations and maintaining organizational image; anxiety about appearing incompetent to leadership; prioritizes how actions reflect on the department rather than internal principles."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Identity rooted in squad loyalty and avoiding letting down commanders/friends; paralyzed by trying to please all parties; anxiety about disappointing both superiors and peers; cannot act independently."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Consistent internal value system that guides decisions independent of external validation; takes perspective on relationships rather than being subject to them; evaluates others' integrity against own standards; builds new systems when old ones fail."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Self-authored principles guide all decisions; can hold both professional boundaries and personal values; evaluates situations objectively; focuses on learning from failures; recognizes impact on team culture without being controlled by it."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Clear internal compass guiding decisions; examines systemic flaws and redesigns approaches; maintains core values while collaborating; stands by own judgment even when it creates friction; takes responsibility for outcomes."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Internal validation and core principles drive all decisions; separates self-worth from outcomes; maintains integrity regardless of external pressure; can stand alone; internally locus of control despite uncertainty."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Decisions rooted in personal values and long-term character; advocates for self while maintaining professional respect; focuses on controlling own response; stands by convictions; internal standards of excellence guide behavior."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): Seeks hidden connections between seemingly opposing views; welcomes disruption of beliefs as growth opportunity; recognizes how context shapes all perspectives; embraces uncertainty as inherent to development; sees systems as interdependent wholes."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): Explores mutual co-creation of reality between self and others; recognizes dissolution of rigid boundaries between self and system; embraces fluidity of identity; sees failure as paradigm-breaking teacher; surrenders to ongoing flow of development."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional Stage 2/3: Shows Stage 2 instrumental thinking (self-protection) mixed with early Stage 3 group loyalty and adherence to collective values like military honor code."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Demonstrates emerging self-authorship with strong individual decision-making, but still wrestling with external validation and personal agency."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Struggling between seeking external approval and developing independent values; beginning to prioritize personal growth over group expectations."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Shows tension between professional judgment and fear of group disapproval; attempting to develop an independent stance while still being heavily influenced by others' opinions."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Strong individual decision-making emerging, but still concerned with maintaining control and external recognition of leadership."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Developing internal values and principles, but still wrestling with external validation and group expectations."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Highly anxious about others' perceptions, struggling to assert independent self while being pulled by group dynamics."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Completely overwhelmed by conflicting expectations, unable to make decisions without fear of disappointing multiple parties."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5: Beginning to see systemic interconnections, questioning underlying assumptions, but still maintaining a coherent self-authored perspective."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5: Demonstrates increasing ability to hold multiple perspectives, questioning own mental models while maintaining a flexible self-authoring stance."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5: Fully embraces complexity, sees reality as contextual and fluid, recognizes limitations of any single perspective with profound intellectual humility."
+  }
+]

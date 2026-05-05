@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Consistently instrumental and self-interested; sees relationships as transactional, focused on personal advantage, avoiding punishment, and immediate rewards without internalized norms or social approval."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind); identity and actions are defined by seeking validation, maintaining harmony, and aligning with the expectations and approval of peers, friends, and colleagues."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong Stage 3 orientation; decisions and self-worth are tied to fulfilling responsibilities and gaining approval from family, teachers, and other external authority figures or valued groups."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 with a strong institutional/organizational focus; identity is tied to department reputation and meeting the visible expectations of management, with anxiety centered on appearing competent to authority."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 within a military/team context; self is defined by loyalty to the squad, chain of command, and maintaining camaraderie, with decisions aimed at avoiding letting down the group."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clear Stage 4 (Self-Authoring Mind); operates from an internal system of core principles and values, can take a perspective on relationships and groups, and prioritizes personal integrity over external approval."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Solid Stage 4; demonstrates an internal compass, focuses on managing internal responses, authoring personal frameworks, and making decisions based on long-term vision and principles rather than external expectations."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 with a strategic/organizational leadership lens; exhibits a self-authored framework focused on systemic integrity, core values, and principled leadership, taking ownership of outcomes and frameworks."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Established Stage 4; consistently relies on internal standards and foundational principles to guide decisions, advocate for self, and take ownership of consequences, showing clear self-authorship."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Strong Stage 4 with a leadership/character emphasis; demonstrates a self-authored identity built on internal convictions, personal standards of integrity, and taking full responsibility for principles and outcomes."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Emerging Stage 5 (Self-Transforming Mind); shows capacity to hold paradox, view systems and mental models as partial and evolving, and seeks integration of multiple perspectives rather than a single self-authored truth."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 orientation; emphasizes interdependence, fluidity of identity, co-creation of reality, and holding tensions between truths, moving beyond a fixed, internal system to embrace ongoing transformation."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "High Stage 3; identity is fully socialized within a team/military ethos, where self is defined by loyalty to the squad, adherence to the Honor Code, and prioritizing the group's mission and cohesion above individual interest."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transition 3/4 leaning toward 4; shows strong self-reliance and assertion of personal judgment but with a reactive, oppositional quality against others' expectations, not yet a fully developed internal value system."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transition 3/4; actively trying to differentiate from family/social expectations to build a personal ideology, but still seeks validation and feels stress from potentially disappointing valued others."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transition 3/4; professional self is emerging with personal judgment, but is heavily constrained by anxiety over team dynamics, letting others down, and a desire for harmonious professional relationships."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transition 3/4 leaning toward 4; asserts leadership identity and personal judgment against upper management, but defines self in opposition to external control rather than from a fully articulated internal system."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transition 3/4; consciously shifts from seeking external approval to acting from internal principles and authenticity, though the process involves self-consciousness and questioning past motivations."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transition 3/4; cognitively understands the need for self-authored boundaries and judgment but is emotionally captured by the need for approval, causing internal conflict and paralysis."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transition 3/4; deeply embedded in the expectations of multiple roles (work, family) causing exhaustion, with intellectual awareness of the need to please oneself but inability to act on it."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transition 4/5; operates from a strong self-authored framework as a leader but is beginning to relativize it, seeing institutional needs as complex systems and valuing integration of multiple perspectives over a single vision."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transition 4/5; uses a self-authored, principled framework but actively seeks to transcend it by looking for third-way syntheses, holding ambiguity, and being curious about the limitations of their own plans."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transition 4/5 leaning toward 5; exhibits a meta-awareness of mental models and constructs, finds excitement in model breakdowns, and values dialogue and paradox over defending a personal framework."
+  }
+]

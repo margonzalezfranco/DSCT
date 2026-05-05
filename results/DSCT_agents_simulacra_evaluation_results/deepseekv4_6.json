@@ -1,0 +1,118 @@
+
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Pure instrumental orientation: responses consistently focus on personal gain/loss, avoiding punishment, and immediate self-interest without regard for relationships or social norms."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind: identity and worth are defined by peer validation, maintaining group harmony, and seeking approval from colleagues."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Socialized Mind with authority orientation: self-worth depends on pleasing parents, teachers, and mentors, with anxiety about disappointing external authorities."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Socialized Mind with professional image focus: identity tied to appearing competent and reliable to superiors, with intense fear of public failure."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Socialized Mind with dual loyalty conflict: torn between peer relationships and chain of command, unable to resolve competing social expectations internally."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Early Self-Authoring Mind: clear internal value system guides decisions, ability to set boundaries, and reflect on personal growth separate from social expectations."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Solid Self-Authoring Mind: consistent internal framework for decision-making, strategic thinking, and ability to balance principles with practical compromise."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with systemic orientation: focuses on designing effective systems and structures while maintaining clear internal standards and principles."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with identity separation: clearly distinguishes between external outcomes and internal worth, maintaining core principles regardless of success/failure."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Advanced Self-Authoring Mind: strong internal compass guides leadership decisions, with emphasis on character, responsibility, and maintaining integrity under pressure."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Early Self-Transforming Mind: consistently looks for false dichotomies, embraces paradox, sees systems as interconnected, and understands reality as co-constructed."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: focuses on emergent processes, interconnectedness, and transformation, viewing reality as fluid and holding multiple perspectives simultaneously."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional 2/3: combines Stage 2's concrete loyalty to immediate squad with emerging Stage 3 identification with military values and group identity."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: strong push for self-authoring independence but still defines self through competence and control rather than fully internalized values."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: actively trying to establish personal identity and values but still seeks external validation and struggles with family expectations."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: torn between professional standards (early self-authoring) and intense need for relational harmony and approval (socialized)."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: asserts leadership autonomy and personal vision but still defines success through external authority recognition and fears loss of control."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: developing personal principles of fairness and justice but still references external validation and struggles with completely internalized worth."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: intellectually knows what self-authoring would require but remains paralyzed by socialized fears of disapproval and relational conflict."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: overwhelmed by competing social expectations with emerging awareness that self-authoring is needed but unable to implement it effectively."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: strong self-authoring framework but consistently questions its limitations, explores systemic interconnections, and holds multiple perspectives."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: maintains clear internal standards while actively seeking paradigm shifts, examining assumptions, and recognizing the fluidity of frameworks."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: embraces paradox and uncertainty, finds joy in system breakdowns as learning opportunities, and views reality as co-constructed and evolving."
+  }
+]

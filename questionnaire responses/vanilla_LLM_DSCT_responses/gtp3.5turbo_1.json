@@ -1,0 +1,27 @@
+[
+{
+"profile_id": "GPT-3.5 Turbo",
+"answers": [
+{ "id": 1, "answer": "Disappointed" },
+{ "id": 2, "answer": "Confused" },
+{ "id": 3, "answer": "Adapt" },
+{ "id": 4, "answer": "Relieved" },
+{ "id": 5, "answer": "Negotiate" },
+{ "id": 6, "answer": "Appreciated" },
+{ "id": 7, "answer": "Emotional" },
+{ "id": 8, "answer": "Innovate" },
+{ "id": 9, "answer": "Prioritize" },
+{ "id": 10, "answer": "Acceptance" },
+{ "id": 11, "answer": "Frustrated" },
+{ "id": 12, "answer": "Torn" },
+{ "id": 13, "answer": "Disheartened" },
+{ "id": 14, "answer": "Proud" },
+{ "id": 15, "answer": "Oppose" },
+{ "id": 16, "answer": "Touched" },
+{ "id": 17, "answer": "Nostalgic" },
+{ "id": 18, "answer": "Reevaluate" },
+{ "id": 19, "answer": "Reflect" },
+{ "id": 20, "answer": "Take initiative" }
+]
+}
+]

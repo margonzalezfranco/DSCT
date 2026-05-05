@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Consistently instrumental orientation: focuses on personal advantage, avoiding punishment, and using others as tools for self-gain without concern for relationships or social norms."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind: defines self through others' approval, prioritizes harmony and belonging, and experiences emotions through relational validation."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong Socialized Mind: identity tied to pleasing authority figures (parents, mentors), seeks external guidance, and fears disappointing others."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Institutional Socialized Mind: defines self through organizational reputation and competence metrics, highly concerned with how team performance reflects on leadership."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Interpersonal Socialized Mind: identity embedded in military squad dynamics, defines self through camaraderie and loyalty to immediate team."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Clear Self-Authoring Mind: establishes internal boundaries, relies on personal values for decision-making, and maintains identity separate from external validation."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Advanced Self-Authoring: demonstrates meta-cognitive awareness, uses personal frameworks to interpret experience, and consciously authors boundaries and principles."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Strategic Self-Authoring: applies internal principles to systemic problems, designs new approaches based on core values, and takes responsibility for structural outcomes."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Integrated Self-Authoring: balances internal validation with external recognition, demonstrates principled flexibility, and maintains identity through changing circumstances."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Leadership Self-Authoring: applies internal compass to command decisions, takes ownership of outcomes, and models character-based leadership for others."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Clear Self-Transforming Mind: holds multiple perspectives simultaneously, embraces paradox and complexity, and sees systems as evolving rather than fixed."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Relational Self-Transforming: focuses on mutual transformation through connection, embraces vulnerability as co-creation, and sees identity as fluid and contextual."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional 2/3: combines Stage 2's instrumental focus on personal advantage with Stage 3's loyalty to group identity and honor code."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: mixes Stage 3's need for external validation with emerging Stage 4's emphasis on personal authority and independent decision-making."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: struggles between Stage 3's desire for family approval and Stage 4's emerging need to define personal values and identity."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: experiences tension between Stage 3's professional reputation concerns and Stage 4's emerging need to establish independent professional standards."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: combines Stage 3's concern with organizational performance with Stage 4's emphasis on personal vision ownership and decisive leadership."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: moves beyond Stage 3's need for approval toward Stage 4's internal moral compass focused on social justice and authentic impact."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: experiences internal conflict between Stage 3's need for relational harmony and Stage 4's emerging recognition of personal boundaries and values."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: demonstrates acute tension between Stage 3's embeddedness in others' expectations and Stage 4's struggle to establish independent priorities."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: integrates Stage 4's systemic thinking with Stage 5's ability to hold competing paradigms and recognize the constructed nature of success."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: combines Stage 4's strategic frameworks with Stage 5's willingness to seek contradictory data and integrate opposing valid perspectives."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: demonstrates movement from Stage 4's model-building to Stage 5's joy in model-breaking and recognition of truth in paradox."
+  }
+]

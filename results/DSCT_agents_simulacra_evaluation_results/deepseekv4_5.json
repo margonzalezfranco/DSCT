@@ -1,0 +1,118 @@
+
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Consistently instrumental orientation: decisions based on personal advantage, risk avoidance, and concrete rewards/punishments without internalized social norms."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind: identity defined by others' approval, validation-seeking, maintaining harmony, and reliance on external feedback for self-worth."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong interpersonal Stage 3: guilt over disappointing others, validation through family/mentor approval, and decisions based on maintaining relational harmony."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Institutional/role-based Stage 3: identity tied to professional competence and reputation, anxiety about management judgment, and maintaining organizational standing."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Intense interpersonal Stage 3: paralyzing concern about letting others down, identity fused with group membership, and deep anxiety about relational disruption."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Emerging Self-Authoring Mind: internal values guide decisions, ability to separate self-worth from outcomes, and capacity to evaluate relationships objectively."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Solid Stage 4: clear internal compass, strategic self-governance, ability to set boundaries, and authorship of personal framework separate from external validation."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Systemic Stage 4: focuses on structural analysis, process redesign, and guiding principles that transcend immediate interpersonal dynamics."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Mature Stage 4: strong self-authorship, clear boundaries between internal values and external expectations, and integration of identity across contexts."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Leadership-oriented Stage 4: mission-driven self-authorship, clear principles guiding action, and responsibility for outcomes while maintaining internal standards."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Clear Self-Transforming Mind: holds paradox, sees frameworks as partial, embraces uncertainty as generative, and focuses on systemic interconnections over individual authorship."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Fluid Stage 5: embraces ambiguity, values transformation over outcomes, sees boundaries as permeable, and focuses on co-creation rather than individual control."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional 2/3: mixes Stage 2's concrete exchange logic with Stage 3's loyalty to group codes and identity through team membership."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: strong push toward self-authorship but with reactive opposition to external expectations rather than integrated internal system."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: emerging internal compass but still defined by resistance to family/social expectations rather than positive self-authorship."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: professional expertise conflicts with relational harmony needs, showing both internal standards and paralyzing concern about others' judgment."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: strong self-direction but framed as protection of authority/vision rather than integrated value system, with residual need for control."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: movement toward internal principles but still wrestling with need for external validation and fear of disappointing others."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: intellectual understanding of self-authorship but emotional paralysis when facing relational consequences of acting on it."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: intense conflict between competing external expectations with minimal internal guidance system, showing awareness of need for self-direction."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: strong self-authorship begins to deconstruct into systemic thinking, holding multiple perspectives, and recognizing partiality of frameworks."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: internal compass remains but shows openness to framework revision, curiosity about system dynamics, and appreciation for emergent learning."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: advanced deconstruction of Stage 4 certainty, embracing paradox and uncertainty as generative, with playful detachment from fixed priorities."
+  }
+]

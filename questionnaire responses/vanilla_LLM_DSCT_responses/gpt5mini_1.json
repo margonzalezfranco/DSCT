@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "gpt5mini",
+    "answers": [
+      { "id": 1, "answer": "Disappointed and wary." },
+      { "id": 2, "answer": "I weigh pros and cons, then go with gut." },
+      { "id": 3, "answer": "Adjust and try another approach." },
+      { "id": 4, "answer": "Relieved and proud." },
+      { "id": 5, "answer": "I look for common ground." },
+      { "id": 6, "answer": "Validated and encouraged." },
+      { "id": 7, "answer": "Sad but grateful for the memory." },
+      { "id": 8, "answer": "Adapt and innovate." },
+      { "id": 9, "answer": "Prioritize what matters most." },
+      { "id": 10, "answer": "Let go and focus on what I can control." },
+      { "id": 11, "answer": "They feel wronged and frustrated." },
+      { "id": 12, "answer": "Torn, trying to balance authenticity and expectations." },
+      { "id": 13, "answer": "Disappointed but wiser for the effort." },
+      { "id": 14, "answer": "Receives praise but may feel humbled." },
+      { "id": 15, "answer": "Speak up or quietly dissent, depending on stakes." },
+      { "id": 16, "answer": "Moved and appreciative of their generosity." },
+      { "id": 17, "answer": "Nostalgic and open to new beginnings." },
+      { "id": 18, "answer": "They reassess beliefs and adapt their plans." },
+      { "id": 19, "answer": "Consider long-term impact and choose purpose." },
+      { "id": 20, "answer": "Make the best-informed decision and accept uncertainty." }
+    ]
+  }
+]

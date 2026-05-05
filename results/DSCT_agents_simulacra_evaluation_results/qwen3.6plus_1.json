@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Instrumental orientation dominates: responses focus on personal gain, risk mitigation, and concrete reciprocity ('what benefits me,' 'protect myself from fallout')."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind: identity and decisions are mediated through peer approval, harmony, and external validation ('ask around,' 'keep the peace,' 'support system')."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong Stage 3: self-worth and choices are governed by authority figures and fear of disappointing others ('parents say,' 'let everyone down,' 'pray things turn out okay')."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3/4",
+    "explanation": "Transitional: reputation management and institutional expectations dominate (Stage 3), but emerging strategic self-awareness about visibility and competence hints at self-authoring capacity."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Socialized Mind in institutional context: loyalty to squad, chain of command, and mutual expectations shape responses ('duty to team,' 'bonds we built,' 'trust my training')."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind: internal compass, core principles, and authenticity guide decisions independently of external approval ('author a new approach,' 'internal moral framework')."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Clear Stage 4: strategic self-reflection, boundary-setting, and internal standards supersede interpersonal demands ('evaluate against core principles,' 'manage my own internal state')."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Self-authored framework: systemic analysis, value-based prioritization, and redesigning processes reflect capacity to take perspective on systems rather than be subject to them."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Consistent Stage 4: internal values drive adaptation and decision-making; responses show ownership of process over outcome ('stay grounded in what I can control')."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Strong Self-Authoring: leadership philosophy, mission-alignment, and principled dissent demonstrate an internally generated value system that organizes experience."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: dialectical thinking, paradox-embracing, and systemic meta-awareness ('transcend the original disagreement,' 'examine the framework I am using')."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 characteristics: fluid identity, interdependence awareness, and comfort with ambiguity ('permeability of human boundaries,' 'trust capacity to adapt and be transformed')."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional: instrumental loyalty to squad ('mission comes first') blends with socialized adherence to external codes (Honor Code, peer expectations)."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Mixed orientation: self-authored language ('my gut,' 'my vision') emerges but remains entangled with concerns about respect and external validation."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional struggle: asserting personal beliefs ('stay true to myself') while still seeking acceptance shows movement from socialized to self-authoring."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Professional Stage 3/4 tension: knows what's right professionally but remains emotionally subject to relational harmony and approval ('worry about upsetting,' 'feel sick to stomach')."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Emerging Self-Authoring: leadership identity, strategic pivoting, and ownership of outcomes reflect internal direction, though some instrumental control themes persist."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Values-based but relationally aware: internal compass guides choices ('personal principles,' 'justice'), yet responses retain awareness of social impact and recognition."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Socialized Mind with self-authoring flickers: anxiety about judgment and people-pleasing dominate, but glimpses of internal goal-setting appear."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Strong Stage 3: identity is subject to others' expectations; responses show paralysis from fear of disappointing, guilt, and external validation needs."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional to Self-Transforming: systemic thinking and dialectical integration ('competing commitments,' 'transcend trade-offs') show capacity to hold multiple frameworks."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Stage 4/5 transition: mental model evolution, feedback-oriented learning, and framework critique indicate movement beyond self-authoring toward transformative thinking."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Self-Transforming orientation: embraces paradox, provisional truth, and meaning-making awareness ('breakdown of a model is where real learning begins,' 'profound sense of relief' from certainty)."
+  }
+]

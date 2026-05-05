@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Answers consistently instrumental and self-interested: focus on personal gain, avoidance of punishment, tactical rule-following, career/rank outcomes. Classic Stage 2 (Instrumental/Concrete)."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Responses show identity and decisions anchored in relationships, peer approval, and group harmony (seek colleague input, rely on support system, prioritize keeping peace). Clear Stage 3 (Socialized Mind)."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Strong orientation to expectations of parents/advisors, fear of disappointing others, reliance on external authority for decisions and meaning—typical Stage 3."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Behavior driven by reputation with leadership/peers, visibility to superiors, protecting team image—responses reflect socialized concerns about status and approval (Stage 3)."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Emphasis on duty, squad/peer expectations, seeking leadership/peer advice, fear of letting others down—identity tied to group membership (Stage 3)."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Consistently self-authored reasoning: reliance on internal compass, core principles, willingness to disappoint others for integrity, systemic analysis and authorship language—solid Stage 4 (Self‑Authoring Mind)."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Reflective, principled decision-making, evaluation of facts vs. internal narrative, use of internal standards to guide choices and recalibrate—clear Stage 4 characteristics."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Focus on strategy, frameworks, redesigning systems, ownership of judgment and priorities—responses show an integrated self-authored perspective (Stage 4)."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Answers emphasize internal standards, leadership responsibility, owning outcomes, and prioritizing self-authored vision—indicative of Stage 4."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Consistent self-authorship: accountability to own values, leadership identity, principled dissent, updating beliefs while anchored in core values—Stage 4 profile."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Systemic, dialectical thinking: examines underlying value-systems, welcomes disruption to reshape models, seeks synthesis and transcending of oppositions—clear Stage 5 (Self-Transforming Mind)."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Responses show integration of competing perspectives, letting go of rigid expectations, emphasis on system emergence and identity beyond context—solid Stage 5."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Strong group-loyalty and institutional identification (Honor Code, squad, mission). Decisions anchored in duty to peers and institution—classic Stage 3 socialized orientation."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "Assertive self-authorship: trusts own judgment, prioritizes internal vision, leadership ownership and willingness to rewrite rules—strong Stage 4 profile."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitioning: increasingly self-authored language (own beliefs, independence) but still references parents/validation and concern for acceptance—early Stage 4 emerging from Stage 3."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Mixed signals: professional responsibility and some self-authorship but persistent anxiety about others' judgments and relationships—transitional between 3 and 4."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Leadership-centered, self-authored decision making, ownership of failures and strategic pivots—consistent Stage 4 reasoning."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "Internal standards drive judgments, emphasis on integrity over approval, reflective recalibration—solid Stage 4 orientation."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Predominantly socialized concerns (approval, anxiety about others) with emerging self-authored moves (valuing own goals) — transitional 3 to 4."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Responses center on pleasing others, guilt about letting people down, difficulty choosing because of others' expectations—typical Stage 3 socialized mind."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Bridges systemic, reflexive inquiry and transparent bias-examination with self-authored responsibility—operating at the threshold between self-authoring and self-transforming (4/5)."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Analytic, meta-level stance toward assumptions and frameworks, openness to revising models while holding values—transitional between Stage 4 and Stage 5."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Meta-reflective, excited by model breakdowns and integration of competing voices; identity disembedding and provisional priorities indicate movement into Stage 5 while retaining Stage 4 structure."
+  }
+]

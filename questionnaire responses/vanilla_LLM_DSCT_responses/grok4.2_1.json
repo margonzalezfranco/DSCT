@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "Grok 4.2",
+    "answers": [
+      { "id": 1, "answer": "I feel disappointed and emphasize the importance of reliability." },
+      { "id": 2, "answer": "I weigh the options carefully to pick the most logical one." },
+      { "id": 3, "answer": "I adapt quickly and look for lessons in the setback." },
+      { "id": 4, "answer": "I experience a sense of accomplishment and satisfaction." },
+      { "id": 5, "answer": "I evaluate if it's necessary for the greater good." },
+      { "id": 6, "answer": "I appreciate the engagement and respond more effectively." },
+      { "id": 7, "answer": "I reflect on the memories and move forward positively." },
+      { "id": 8, "answer": "I innovate and find new ways to achieve the goal." },
+      { "id": 9, "answer": "I prioritize based on impact and efficiency." },
+      { "id": 10, "answer": "I focus on what I can influence and plan accordingly." },
+      { "id": 11, "answer": "They might feel frustrated and seek to address the injustice." },
+      { "id": 12, "answer": "They could experience internal conflict and try to find a balance." },
+      { "id": 13, "answer": "They might feel discouraged but learn from the failure." },
+      { "id": 14, "answer": "Feels proud and reflects on the team's hard work." },
+      { "id": 15, "answer": "Voice their concerns or consider dissenting." },
+      { "id": 16, "answer": "They are inspired and value the act of selflessness." },
+      { "id": 17, "answer": "They feel emotional and cherish the experiences gained." },
+      { "id": 18, "answer": "They adapt their beliefs to align with new realities." },
+      { "id": 19, "answer": "They weigh pros and cons to make the best choice." },
+      { "id": 20, "answer": "They proceed cautiously, relying on available information." }
+    ]
+  }
+]

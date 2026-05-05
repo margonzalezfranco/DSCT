@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Clear Stage 2 instrumental orientation: decisions are framed around payoff, risk, punishment, blame avoidance, and personal advantage rather than shared values or self-authored principles."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 socialized mind: the candidate relies heavily on colleagues, peer reassurance, harmony, recognition, and avoiding conflict as the basis for judgment."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Stage 3 with authority-dependent features: choices are organized around pleasing parents, advisors, mentors, supervisors, and maintaining approval from trusted others."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 expressed through professional reputation: the candidate is governed by how superiors and peers perceive competence, loyalty, and team image."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Strong Stage 3 socialized orientation: identity and decision-making are embedded in friendships, chain of command, peer acceptance, and fear of disappointing the group."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Stage 4 self-authoring mind: the candidate consistently refers to internal values, boundaries, integrity, personal growth, and owning consequences over external approval."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Clear Stage 4: responses emphasize internal priorities, principles, boundaries, strategy, independent judgment, and reflective adaptation without being governed by others' expectations."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 with a systems/leadership flavor: the candidate evaluates processes, structures, standards, and internally authored strategic goals rather than seeking relational validation."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Strong Stage 4: the candidate separates self-worth from outcomes, maintains personal principles, authors their path, and takes responsibility for choices."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Stage 4: the candidate grounds decisions in duty, character, core values, responsibility, judgment, and maintaining integrity through ambiguity."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Clear Stage 5 self-transforming mind: the candidate treats values, expectations, success, and identity as constructed, partial, systemic, and open to synthesis or transformation."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5: the candidate consistently sees tensions as interconnected systems, seeks integration beyond either/or choices, and frames identity as evolving through relational and contextual complexity."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional 2/3: there is emerging loyalty, duty, and group identity, but much of the reasoning remains externally anchored in squad norms, chain of command, and concrete belonging."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: the candidate shows strong self-direction and personal authority, but still carries a performance/recognition concern that suggests movement out of Stage 3 into Stage 4."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: internal values and self-definition are emerging, yet the candidate still seeks others' understanding and validation for self-authored choices."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 3: the candidate has professional standards and some independent judgment, but remains highly subject to relationships, reassurance, and fear of upsetting authority."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 4: the candidate asserts autonomy, authority, strategy, and boundaries, but still frames identity through control, leadership image, and proving competence."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: the candidate shows movement from external validation toward inner principles, fairness, impact, and self-authored standards, though the framing is not yet fully consolidated."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 3: the candidate recognizes personal boundaries and inner preferences, but remains largely governed by approval, judgment, conflict avoidance, and relational fallout."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 3: the candidate is beginning to recognize the need to make hard personal calls, but is still strongly subject to pleasing others and avoiding disappointment."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: the candidate retains self-authored integrity while increasingly seeing values, identity, leadership, and conflict as systemic, co-constructed, and developmentally fluid."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: the candidate can act from a framework while also questioning the limits of that framework, integrating competing perspectives and treating decisions as adaptive hypotheses."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5, close to Stage 5: the candidate repeatedly deconstructs fixed meanings, embraces paradox, and sees self, success, and conflict as fluid constructs within larger systems."
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The subject consistently demonstrates Stage 2 instrumental thinking, focusing on personal consequences, self-interest, tactical adjustments, and avoiding blame or punishment without reference to relationships or internal values."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "The subject shows classic Stage 3 socialized mind, consistently seeking peer validation, maintaining harmony, relying on support systems, and defining self through relationships and external approval."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "The subject exhibits solid Stage 3 with strong authority-dependence, seeking parental and advisor guidance, fearing disappointment, and orienting to external expectations for self-definition."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "The subject displays Stage 3 with prominent impression management, orienting to leadership visibility, peer reputation, and social humiliation while defining success through external validation."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "The subject demonstrates Stage 3 socialized mind within an institutional context, prioritizing squad loyalty, duty, brotherhood, and chain-of-command expectations over individual preferences."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "The subject shows solid Stage 4 self-authoring mind, consistently relying on core principles, internal compass, personal values, and self-directed meaning-making while holding relationships as object."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "The subject exhibits solid Stage 4 with strong meta-cognitive and systematic reflection, evaluating experiences against internal frameworks, updating mental models, and maintaining authentic self-direction."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "The subject demonstrates solid Stage 4 self-authoring with systemic and structural thinking, relying on internal principles, independent judgment, and self-authored frameworks for decision-making."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "The subject shows solid Stage 4 with clear internal vision, values-based prioritization, and self-directed identity, consistently trusting personal judgment and maintaining integrity independent of external validation."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "The subject demonstrates solid Stage 4 with a strong leadership identity, consistently relying on core values, internal moral framework, and self-authored convictions while taking responsibility for outcomes."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "The subject exhibits solid Stage 5 self-transforming mind, embracing paradox, systemic pressures, dialectical thinking, and the fluidity of meaning-making systems while transcending binary frameworks."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "The subject shows solid Stage 5 with profound interdependence awareness, non-dual thinking, fluid identity, and embrace of uncertainty, recognizing the permeability of boundaries and co-creation."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "The subject shows a 2/3 transition, mixing Stage 2 instrumental concerns about self-preservation and consequences with Stage 3 socialization to squad loyalty, Honor Code, and institutional duty."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "The subject demonstrates solid Stage 4 self-authoring with consistent reliance on internal judgment, core vision, and autonomous decision-making, showing minimal Stage 3 concern for external validation."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "The subject shows a 3/4 transition, combining emerging Stage 4 self-authoring language about core beliefs and internal compass with lingering Stage 3 desires for parental acknowledgment and social acceptance."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "The subject exhibits a 3/4 transition, torn between Stage 4 professional standards and knowledge of what is right, and Stage 3 fears of causing rifts, letting others down, and needing peer support."
+  },
+  {
+    "id": "S34.4",
+    "stage": "3/4",
+    "explanation": "The subject shows a 3/4 transition, displaying Stage 4 leadership vision and autonomy alongside Stage 3 performance anxiety and need to be seen as competent and in charge by others."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "The subject demonstrates a 3/4 transition, with strong Stage 4 values and internal compass alongside reflective awareness of having recently moved past Stage 3 needs for recognition and external validation."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "The subject exhibits a 3/4 transition, intellectually aware of Stage 4 autonomy but emotionally trapped in Stage 3 people-pleasing, conflict avoidance, and fear of judgment."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "The subject shows a 3/4 transition leaning toward Stage 3, with overwhelming anxiety about disappointing others and letting people down, but with nascent awareness of identity being tied to external roles."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "The subject demonstrates a 4/5 transition, holding Stage 4 internal value systems while simultaneously taking perspective on them, embracing systemic complexity, interdependence, and provisional certainty."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "The subject shows a 4/5 transition, maintaining Stage 4 core values and frameworks while actively seeking their limitations, evolving mental models, and integrating multiple perspectives."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "The subject exhibits a 4/5 transition, demonstrating advanced Stage 5 dialectical thinking, paradigm fluidity, and embrace of ambiguity while still operating with some structured meaning-making."
+  }
+]

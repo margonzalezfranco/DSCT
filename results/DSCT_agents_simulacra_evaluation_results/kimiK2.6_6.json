@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "The subject demonstrates a consistently instrumental orientation, evaluating situations based on personal payoff, risk calculation, and self-advancement while managing appearances to avoid blame and maximize reward."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Socialized Mind: the subject's identity is embedded in peer relationships, seeking validation from colleagues, prioritizing group harmony, and making decisions based on what will cause the least upset for everyone."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Socialized Mind oriented toward authority figures: the subject defines self through the expectations of parents, advisors, and mentors, seeking their guidance and fearing disappointment from those who invested in them."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Performance-oriented Socialized Mind: the subject is defined by professional image and competence in the eyes of superiors, experiencing terror at the possibility of looking incompetent or damaging their reputation."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Socialized Mind in a hierarchical context: the subject is emotionally fused with squad and chain of command, experiencing betrayal as friendship destruction and making choices to avoid disappointing peers and superiors."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Self-Authoring Mind: the subject operates from an internal value system with clear boundaries and moral lines, willing to disappoint others to maintain integrity, and defines success by authenticity rather than external approval."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Systematic Self-Authoring Mind: the subject relies on core values and long-term goals to make decisions, regulates their own responses, takes responsibility for outcomes, and can voice dissent based on principled reasoning."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Systems-oriented Self-Authoring Mind: the subject authors internal frameworks and visions, prioritizes based on strategic goals and internal standards, and takes responsibility for redesigning systems and processes."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Mature Self-Authoring Mind: the subject maintains a sense of self completely independent of outcomes, roles, or success, authors their own life path, and recognizes that personal value is separate from achievements or failures."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Leadership-oriented Self-Authoring Mind: the subject is guided by an internal compass and core principles, takes responsibility for failures, values team growth over personal credit, and maintains composure through ambiguity."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: the subject holds paradox and seeks syntheses that transcend false dichotomies, examines underlying systemic narratives, treats decisions as working hypotheses, and recognizes the interdependence of human systems."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Self-Transforming Mind: the subject sees reality as co-constructed, embraces uncertainty as freedom, recognizes the permeability of self-other boundaries, and allows identity to evolve through transformation rather than clinging to fixed frameworks."
+  },
+  {
+    "id": "S23.1",
+    "stage": "2/3",
+    "explanation": "Transitional between Instrumental and Socialized Mind: the subject follows group rules, chain of command, and squad loyalty, but with a functional rather than emotionally fused orientation, treating trust and duty as instrumental necessities for unit success."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "Self-Authoring Mind with early independence: the subject relies on own judgment, refuses to cave to external expectations, makes decisions based on personal priorities, and takes full responsibility for consequences, showing strong internal authority."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitioning from Socialized to Self-Authoring: the subject has developed core values and independent goals but still seeks external validation, hopes others will respect their choices, and wants the group to acknowledge their personal vision."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitioning from Socialized to Self-Authoring: the subject experiences intense internal conflict between professional standards and relationship harmony, knowing what is right but dreading confrontation and desperately seeking peer reassurance."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Leadership-oriented Self-Authoring Mind: the subject asserts strategic vision, maintains authority, prioritizes own goals over upper management demands, and defines leadership as trusting one's own judgment rather than going along to get along."
+  },
+  {
+    "id": "S34.5",
+    "stage": "3/4",
+    "explanation": "Transitioning from Socialized to Self-Authoring: the subject explicitly references having moved past needing validation, now acting from core principles and an inner compass, but still negotiating the tension between fairness and others' expectations."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitioning from Socialized to Self-Authoring: the subject is primarily paralyzed by social anxiety and fear of judgment, keeping quiet to avoid awkwardness, yet has emerging awareness of what they should do and plans speeches they never deliver."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3/4",
+    "explanation": "Transitioning from Socialized to Self-Authoring: the subject is deeply embedded in pleasing others, terrified of disappointing anyone, and feels paralyzed by competing expectations, yet recognizes the need to make hard calls independently."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitioning from Self-Authoring to Self-Transforming: the subject sees their own vision as one perspective among many, seeks third-way syntheses, recognizes collective intelligence, and treats decisions as adaptive hypotheses rather than fixed positions."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitioning from Self-Authoring to Self-Transforming: the subject holds their own framework loosely enough to see its limits, recognizes paradigm shifts, examines their own assumptions, and develops a more fluid sense of self."
+  },
+  {
+    "id": "S45.3",
+    "stage": "4/5",
+    "explanation": "Transitioning from Self-Authoring to Self-Transforming: the subject embraces paradox and ambiguity, sees beliefs and expectations as fluid constructs, recognizes the illusion of control, and holds competing priorities lightly while still anchored in an evolving value system."
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Pure Stage 2 (Impulsive Mind): Responses are entirely instrumental and self-protective, focused on personal advantage, avoiding punishment, and self-interest ('look out for number one,' 'cover your tracks'). No awareness of others' perspectives or internalized values; only concrete payoffs and consequences matter."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind): Identity is constructed through relationships and others' approval. The subject seeks validation from peers, worries about disappointing people, looks to colleagues for guidance, and prioritizes group harmony and belonging over independent judgment."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Strong reliance on external authorities (parents, mentors, teachers) to validate choices and guide decisions. Concern about disappointing others, guilt about letting people down, and orientation to what 'makes people proud' rather than internal conviction."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) with organizational focus: Identity organized around organizational reputation and management approval. Anxious about how things 'look' to leadership, takes on others' stress, and makes decisions based on alignment with executives' priorities rather than independent assessment."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Deeply embedded in relational system (military hierarchy); makes decisions to avoid disappointing commanders and squadmates. Identity fused with role and relationships; agonizes over conflicting loyalties rather than accessing independent values."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Clear internal value system and personal boundaries that supersede relationships. Makes decisions based on 'core values' and 'principles,' can take perspective on others' needs, and separates self-worth from external validation or outcomes."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Demonstrates sophisticated self-authorship with internal compass guiding decisions independent of others' expectations. Can 'authorize own perspective,' set boundaries with external demands, and maintain principles even when causing friction."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with systems thinking: Self-directed decision-making rooted in long-term vision and strategic principles. Takes responsibility for redesigning systems and approaches, balances core values with organizational goals, and maintains independent assessment."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind): Internally authored value system that guides choices independent of relationships or outcomes. Can separate self-worth from external validation, stand by principles even causing friction, and maintain core identity intact through transitions."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with leadership orientation: Self-directed internal standards and principles that guide leadership decisions. Takes ownership of outcomes, maintains core convictions even against external pressure, and acts from internal compass rather than external expectations."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): Examines the underlying assumptions and competing commitments within systems; sees paradoxes and tensions as generative; holds multiple perspectives simultaneously; trusts emergence and views disruption as opportunity for evolution rather than threat."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): Recognizes systemic interdependence; sees disruptions as invitations to deconstruct rigid frameworks; integrates opposing views; holds identities lightly; understands how mutual co-creation shapes reality; embraces paradox and views loss as transformation rather than failure."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind) with institutional embeddedness: Identity organized around group loyalty, honor codes, and duty to the unit. Makes decisions based on what teammates expect and unit standards, seeks validation through role fulfillment, and subordinates individual judgment to collective purpose."
+  },
+  {
+    "id": "S34.1",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Shows emerging self-authorship ('I trust my own judgment,' 'my own priorities') but still driven by assertion against external control rather than coherent internal values. Emphasizes autonomy and independence more as reaction against dependency than as authentic self-direction."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Emerging capacity to distinguish own beliefs from others' expectations ('what I actually believe'), but still anxious about disappointing people and seeking validation ('I want my parents to see'). Self-authorship is nascent and defensive rather than fully formed."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4: Demonstrates internal professional values and willingness to stand by them, but experiences significant anxiety and inner turmoil about the relational consequences. Can author own standards but still primarily oriented to managing others' perceptions and maintaining approval."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with directive leadership style: Self-directed decision-making rooted in own vision and standards. Takes full responsibility for outcomes, will not compromise core vision, maintains autonomy and control, and makes definitive calls from internal framework rather than external guidance."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "Stage 4 (Self-Authoring Mind) with values-based orientation: Self-directed by internal moral compass focused on justice and authentic impact rather than external reward. Prioritizes integrity and community good over approval; can stand alone for principles; separates self-worth from recognition."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional Stage 3/4 with Stage 3 dominance: Frequently chooses group harmony and others' approval over own convictions ('I usually agree to keep the peace'). Recognizes capacity for independent judgment but consistently defers to relational concerns; guilt and anxiety about disappointing others prevail."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Stage 3 (Socialized Mind): Experiences identity as fragmented by competing external demands from multiple authority figures (boss, wife, team). Cannot access own internal standard to resolve conflicts; instead feels torn and guilty; seeks external solutions ('someone could give them the right answer')."
+  },
+  {
+    "id": "S45.1",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): Holds multiple valid perspectives simultaneously; sees apparent contradictions as rooted in different but legitimate meaning-making systems; views success as temporary equilibrium; finds relief in surrender to emergence; recognizes self-worth decoupled from strategic outcomes."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional Stage 4/5: Demonstrates solid self-authorship but increasingly questions rigid frameworks; seeks synthesis rather than either/or thinking; recognizes blind spots in own models; uses failure as feedback to expand rather than defend; beginning to hold paradox and multiple perspectives simultaneously."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Stage 5 (Self-Transforming Mind): Celebrates the breakdown of trusted models as opportunity for real learning; holds paradox and sees truth in tension rather than choosing sides; maintains profound humility about partial perspective; experiences liberation from maintaining closed systems; views all structures as temporary and necessary."
+  }
+]

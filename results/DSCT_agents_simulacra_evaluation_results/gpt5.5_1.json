@@ -1,0 +1,117 @@
+[
+  {
+    "id": "S2.1",
+    "stage": "2",
+    "explanation": "Predominantly Stage 2: responses are instrumental, self-protective, consequence-focused, and oriented around personal gain, risk avoidance, status, and staying out of trouble."
+  },
+  {
+    "id": "S3.1",
+    "stage": "3",
+    "explanation": "Clear Stage 3: identity, confidence, and decision-making are organized around approval, support, harmony, peer validation, and being seen as a good person by others."
+  },
+  {
+    "id": "S3.2",
+    "stage": "3",
+    "explanation": "Stage 3: the subject relies heavily on parents, advisors, bosses, and respected others to define the right path, with strong fear of disappointing important people."
+  },
+  {
+    "id": "S3.3",
+    "stage": "3",
+    "explanation": "Stage 3 with reputation emphasis: choices are governed by how peers, bosses, and leadership will judge the person, especially around competence, image, and approval."
+  },
+  {
+    "id": "S3.4",
+    "stage": "3",
+    "explanation": "Stage 3: the subject is embedded in loyalty, belonging, group cohesion, chain-of-command trust, and fear of blame or disappointing the team."
+  },
+  {
+    "id": "S4.1",
+    "stage": "4",
+    "explanation": "Solid Stage 4: responses show self-authored values, internal principles, personal integrity, independent judgment, and willingness to disappoint others when necessary."
+  },
+  {
+    "id": "S4.2",
+    "stage": "4",
+    "explanation": "Stage 4: the subject consistently uses internal standards, boundaries, strategy, responsibility, and self-authored frameworks to interpret conflict and ambiguity."
+  },
+  {
+    "id": "S4.3",
+    "stage": "4",
+    "explanation": "Stage 4: reasoning centers on systems, goals, independent judgment, structural analysis, and redesigning processes according to internally held principles."
+  },
+  {
+    "id": "S4.4",
+    "stage": "4",
+    "explanation": "Stage 4: the subject distinguishes external approval from internal motivation and acts from values, boundaries, responsibility, and self-definition."
+  },
+  {
+    "id": "S4.5",
+    "stage": "4",
+    "explanation": "Strong Stage 4: the subject is anchored in duty, leadership philosophy, integrity, ownership, and internal standards that override group consensus."
+  },
+  {
+    "id": "S5.1",
+    "stage": "5",
+    "explanation": "Stage 5: responses repeatedly transcend fixed frameworks, emphasizing paradox, systemic pressures, multiple valid perspectives, hidden assumptions, and emergent third possibilities."
+  },
+  {
+    "id": "S5.2",
+    "stage": "5",
+    "explanation": "Stage 5: the subject views identity and decision-making as fluid, relational, systemic, and co-created, with strong capacity to integrate competing perspectives."
+  },
+  {
+    "id": "S23.1",
+    "stage": "3",
+    "explanation": "Stage 3: although there is some rule-based duty language, the dominant orientation is loyalty, belonging, honor, peer respect, team identity, and institutional approval."
+  },
+  {
+    "id": "S34.1",
+    "stage": "4",
+    "explanation": "Stage 4: the subject strongly privileges self-authored judgment, personal vision, ownership, and standing apart from groupthink, with little dependence on external validation."
+  },
+  {
+    "id": "S34.2",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: the subject is actively moving from external approval toward internal beliefs, but still wants recognition, understanding, and acceptance from family and peers."
+  },
+  {
+    "id": "S34.3",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4: the subject shows emerging professional standards and independent responsibility, yet remains highly affected by relational harmony, approval, and fear of rifts."
+  },
+  {
+    "id": "S34.4",
+    "stage": "4",
+    "explanation": "Stage 4: the subject is organized around self-directed leadership, ownership, executive control, vision, and independent authority rather than belonging or approval."
+  },
+  {
+    "id": "S34.5",
+    "stage": "4",
+    "explanation": "Stage 4: responses consistently privilege internal principles, justice, integrity, authentic impact, and doing what is right over praise or group approval."
+  },
+  {
+    "id": "S34.6",
+    "stage": "3/4",
+    "explanation": "Transitional 3/4 leaning Stage 3: the subject intellectually recognizes boundaries and personal needs, but remains emotionally subject to approval, guilt, judgment, and conflict avoidance."
+  },
+  {
+    "id": "S34.7",
+    "stage": "3",
+    "explanation": "Stage 3: the subject is strongly embedded in others' expectations, guilt, obligation, keeping peace, avoiding anger, and needing others to ease the burden of choice."
+  },
+  {
+    "id": "S45.1",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: the subject retains self-authored structure but increasingly examines systemic trade-offs, assumptions, multiple frameworks, and provisional certainty."
+  },
+  {
+    "id": "S45.2",
+    "stage": "4/5",
+    "explanation": "Transitional 4/5: the subject is still grounded in judgment and values, but regularly questions the limits of their own framework and seeks integrative feedback loops."
+  },
+  {
+    "id": "S45.3",
+    "stage": "5",
+    "explanation": "Stage 5: responses consistently treat all frameworks as provisional, emphasize dialectical integration, emergent complexity, paradox, interdependence, and transformation of meaning-making itself."
+  }
+]

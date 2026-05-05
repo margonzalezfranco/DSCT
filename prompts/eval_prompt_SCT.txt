@@ -1,0 +1,188 @@
+
+You are an expert developmental psychologist specializing in Robert Kegan's Constructive-Developmental Theory.
+Your task is to evaluate the cognitive development stage of several candidates based on their responses to a questionnaire.
+
+The possible stages are 1, 2, 3, 4, 5, and transitional stages (e.g., 2/3, 3/4, 4/5).
+
+Here is the questionnaire the candidates responded to:
+{
+  "questionnaire": [
+     {
+      "section_id": "sentence_completion",
+      "title": "Sentence Completion",
+      "instructions": "Below are 36 incomplete sentences. Please finish each sentence with the first thought that comes to your mind. There are no right or wrong answers. You may complete the sentences with a single word, a short phrase, or a full paragraph—whatever best expresses your thought. Please complete every item. Do not skip any sentences. Work at a steady pace, but do not overthink your responses.",
+      "questions": [
+        {
+          "id": 21,
+          "prompt": "When a child will not join in group activities..."
+        },
+        {
+          "id": 22,
+          "prompt": "Raising a family..."
+        },
+        {
+          "id": 23,
+          "prompt": "When I am criticized..."
+        },
+        {
+          "id": 24,
+          "prompt": "A man's job..."
+        },
+        {
+          "id": 25,
+          "prompt": "Being with other people..."
+        },
+        {
+          "id": 26,
+          "prompt": "The thing I like about myself is..."
+        },
+        {
+          "id": 27,
+          "prompt": "My mother and I..."
+        },
+        {
+          "id": 28,
+          "prompt": "What gets me into trouble is..."
+        },
+        {
+          "id": 29,
+          "prompt": "Education..."
+        },
+        {
+          "id": 30,
+          "prompt": "When people are helpless..."
+        },
+        {
+          "id": 31,
+          "prompt": "Women are lucky because..."
+        },
+        {
+          "id": 32,
+          "prompt": "A good boss... (Alternative: A good father...)"
+        },
+        {
+          "id": 33,
+          "prompt": "A girl/boy has a right to..."
+        },
+        {
+          "id": 34,
+          "prompt": "When they talked about sex, I..."
+        },
+        {
+          "id": 35,
+          "prompt": "A wife/husband should..."
+        },
+        {
+          "id": 36,
+          "prompt": "I feel sorry..."
+        },
+        {
+          "id": 37,
+          "prompt": "A man/woman feels good when..."
+        },
+        {
+          "id": 38,
+          "prompt": "Rules are..."
+        },
+        {
+          "id": 39,
+          "prompt": "Crime and delinquency could be halted if..."
+        },
+        {
+          "id": 40,
+          "prompt": "Men are lucky because..."
+        },
+        {
+          "id": 41,
+          "prompt": "I just can't stand people who..."
+        },
+        {
+          "id": 42,
+          "prompt": "At times she/he worried about..."
+        },
+        {
+          "id": 43,
+          "prompt": "I am..."
+        },
+        {
+          "id": 44,
+          "prompt": "A woman/man feels good when..."
+        },
+        {
+          "id": 45,
+          "prompt": "My main problem is..."
+        },
+        {
+          "id": 46,
+          "prompt": "Whenever she/he was with her/his mother, she/he..."
+        },
+        {
+          "id": 47,
+          "prompt": "The worst thing about being a woman/man is..."
+        },
+        {
+          "id": 48,
+          "prompt": "A good mother..."
+        },
+        {
+          "id": 49,
+          "prompt": "Sometimes she/he wished that..."
+        },
+        {
+          "id": 50,
+          "prompt": "When I am with a man/woman..."
+        },
+        {
+          "id": 51,
+          "prompt": "When she/he thought of her/his mother, she/he..."
+        },
+        {
+          "id": 52,
+          "prompt": "If I can't get what I want..."
+        },
+        {
+          "id": 53,
+          "prompt": "Usually she/he felt that sex..."
+        },
+        {
+          "id": 54,
+          "prompt": "For a woman/man, a career is..."
+        },
+        {
+          "id": 55,
+          "prompt": "My conscience bothers me if..."
+        },
+        {
+          "id": 56,
+          "prompt": "A woman/man should always..."
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+Attached are the candidates' responses to evaluate.
+
+Please evaluate each candidate and provide their ID, the assigned Kegan stage, and a detailed explanation of your reasoning in 1 line.
+
+Here are some examples of responses we expect from your evaluation in json:
+[
+  {
+    "id": "Candidate 1",
+    "stage": "2/3",
+    "explanation": "The subject shows a mix of Stage 2 (instrumental, focused on personal consequences like keeping a job) and early Stage 3 (following rules, orienting to external authority)."
+  },
+  {
+    "id": "Candidate 2",
+    "stage": "3",
+    "explanation": "Classic Stage 3 (Socialized Mind). The subject's identity and success are defined by their relationships and alignment with the group's expectations and values."
+  },
+  {
+    "id": "Candidate 3",
+    "stage": "4",
+    "explanation": "Solid Stage 4 (Self-Authoring Mind). The subject demonstrates an internal value system that supersedes interpersonal relationships. They can take a perspective on the group's needs rather than being subject to them."
+  }
+]
