@@ -1,0 +1,232 @@
+    [
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 2",
+        "profile_id": "S2.1",
+        "title": "The Tactical Adherence to Rules",
+        "assessed_stage": "Stage 2 (The Instrumental / Imperial Mind)",
+        "excerpt": "I make sure I don't lie or cheat because the consequences just aren't worth it. If I get caught breaking the Honor Code, I'll get kicked out, I'll lose a free Ivy-League-level education, and my military career is over before it starts. It’s a simple calculation: the risk of getting caught completely outweighs whatever temporary advantage I’d get from cheating on an exam.",
+        "evaluation": "Snook and Bartone found that many freshmen enter West Point at Stage 2. The evaluator scores this as Stage 2 because the cadet's meaning-making is entirely subject to their own immediate needs, desires, and self-preservation. They do not hold the Honor Code as an internalized moral absolute; instead, it is an external obstacle course. Their behavior is transactional, driven by concrete rewards and punishments rather than shared values.",
+        "source": "Snook and Bartone's landmark longitudinal studies at West Point utilized the SOI to track cadets over 4 years. West Point Cadets (Longitudinal Study)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 3",
+        "profile_id": "S3.1",
+        "title": "Walter the Teacher",
+        "assessed_stage": "Stage 3 (Socialized Mind)",
+        "excerpt": "I want a class where there's not any more argument from the students... to find support from the other teachers or to relay a story and to have them say, 'I thought you handled that well.' / Interviewer: And if you didn't have that feedback? / Walter: What's the meaning of life here? It's just a mystery.",
+        "evaluation": "Walter relied entirely on external validation from peers to feel successful, indicating a Stage 3 meaning-making structure where he is subject to the opinions of others.",
+        "source": "Quoted in Jennifer Garvey Berger's developmental case studies, frequently cited in literature examining Kegan's theory in educational leadership. Mapping complexity of mind: using the subject-object interview in coaching (Garvey Berger, 2009)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 3",
+        "profile_id": "S3.2",
+        "title": "Gwen (College Student)",
+        "assessed_stage": "Stage 3 (Socialized Mind)",
+        "excerpt": "I just want to make sure I'm doing it right. My advisor thinks biology is the best route for me, and my parents are really proud. I don't want to let them down after all they've invested. If they are happy with it, then I feel good about it.",
+        "evaluation": "Gwen was asked about her career choices. The evaluation showed she chose her path based entirely on what would please her parents and mentors, lacking an internal self-authored voice.",
+        "source": "Interview Strategies for Assessing Self-Authorship (Baxter Magolda, 2007)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 3",
+        "profile_id": "S3.3",
+        "title": "John (The Perfectionist Leader)",
+        "assessed_stage": "Stage 3 (Socialized Mind)",
+        "excerpt": "I really want my team to take ownership, but when they make a mistake, I just take the project back. If my VP sees a mistake from my department, I feel like I'm completely exposed. I can't tolerate the idea of them thinking I don't have everything perfectly under control.",
+        "evaluation": "John is evaluated via his inability to delegate. The SOI reveals he is at Stage 3 because he is subject to the fear of being seen as incompetent by his peers, which overrides his stated goal of empowering his team.",
+        "source": "In Immunity to Change (2009)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 3",
+        "profile_id": "S3.4",
+        "title": "The Cross-Pressured Leader",
+        "assessed_stage": "Stage 3 (Facing the limits of the Socialized Mind)",
+        "excerpt": "As a squad leader, I feel completely torn right now. The Tactical Officer is coming down hard on me to formally discipline one of my squad members for a uniform violation. But that squad member is a close friend who covered for me last week when I was struggling. I don't want to let my commanding officer down, but I can't betray my friend. I'm just stuck in the middle trying to figure out how to keep everyone happy.",
+        "evaluation": "Snook noted that Stage 3 cadets often struggle when placed in complex leadership roles. The evaluator notes that this cadet lacks an internal standard to adjudicate between conflicting loyalties. Because they are at Stage 3, they are entirely dependent on external validation. They view themselves as a victim of two competing external demands (the boss vs. the peer), unable to generate their own independent ruling.",
+        "source": "Snook and Bartone's landmark longitudinal studies at West Point utilized the SOI to track cadets over 4 years. West Point Cadets (Longitudinal Study)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 4",
+        "profile_id": "S4.1",
+        "title": "Mark (College Student)",
+        "assessed_stage": "Stage 4 (Self-Authoring Mind)",
+        "excerpt": "I was raised Catholic, but I've had to step back and look at it. There are parts of the doctrine I simply can't align with my own values anymore. It was hard to tell my parents, but I had to decide what I actually believe, not just what I was told to believe.",
+        "evaluation": "Mark was evaluated on his religious beliefs. He scored at Stage 4 because he could objectively analyze the religion he was raised in, discard parts that didn't align with his internal values, and author his own belief system.",
+        "source": "Interview Strategies for Assessing Self-Authorship (Baxter Magolda, 2007)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 4",
+        "profile_id": "S4.2",
+        "title": "Professional Executive Coach",
+        "assessed_stage": "Stage 4 (Self-Authoring Mind)",
+        "excerpt": "When the client attacked my method, my first instinct was to get defensive. But I was able to observe my own defensiveness in the moment, set it aside as an object, and ask myself, 'What is this reaction telling me about where the client is stuck?' I use my own internal reactions as data, not as the truth.",
+        "evaluation": "This specific evaluation highlighted a coach who could effectively separate their own ego and triggers from the client's journey.",
+        "source": "A study of 36 professional coaches used the SOI to see if coaches had the mental complexity to guide clients. The Developmental Consciousness of Professional Coaches (2010)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 4",
+        "profile_id": "S4.3",
+        "title": "Organizational Manager (Participant 4)",
+        "assessed_stage": "Stage 4 (Self-Authoring Mind)",
+        "excerpt": "When the product launch failed, it wasn't just that my team member messed up the marketing. I had to look at how the communication silos I set up inherently created a bottleneck. I authored a system that was flawed, and I have to take responsibility for redesigning how we interact.",
+        "evaluation": "Evaluated on how they reflect on organizational failure. The manager demonstrated the ability to take the system as an object, recognizing how departmental structures (not just individual personalities) contributed to a breakdown.",
+        "source": "Nature of Reflection after Organizational Experience by Managers (Columbia Univ., 2021)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 4",
+        "profile_id": "S4.4",
+        "title": "Adult Educator",
+        "assessed_stage": "Stage 4 (Self-Authoring Mind)",
+        "excerpt": "Teaching is what I do, and I love it, but it isn't who I am. If I got fired tomorrow, I would be devastated because I value the work, but my core sense of self would remain entirely intact. I author my worth, not my job title.",
+        "evaluation": "The educator's interview excerpt demonstrated clear Subject-Object separation regarding their professional identity—they had a career, but the career did not define their core self.",
+        "source": "Evaluated to help construct a new self-report survey (the CDSR). Accelerating Leadership and Professional Development for Adults (Univ. of Arkansas, 2017)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 4",
+        "profile_id": "S4.5",
+        "title": "The Emergence of the Leader of Character",
+        "assessed_stage": "Stage 4 (The Self-Authoring Mind)",
+        "excerpt": "I know my Tactical Officer expects me to write up the squad member, and I know my peers expect me to look the other way because we're friends. But my job as a leader isn't to be liked, and it's not just to blindly execute the Tactical Officer's checklist. I evaluated the situation, and I've decided to handle the discipline internally within the squad. I know my commander might be annoyed and my friend will be angry, but my ultimate responsibility is to build this soldier's character, and this is the best way to do that.",
+        "evaluation": "Snook and Bartone found that very few cadets naturally reached Stage 4 before graduation, which posed a challenge for an Army requiring highly autonomous officers. The evaluator scores this as Stage 4 because the cadet can take the expectations of both their boss and their peers as object. They are no longer controlled by the need for external approval. Instead, they consult their own self-authored leadership philosophy to make a decision, accepting that they will disappoint people in the service of their own internal compass.",
+        "source": "Snook and Bartone's landmark longitudinal studies at West Point utilized the SOI to track cadets over 4 years. West Point Cadets (Longitudinal Study)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 5",
+        "profile_id": "S5.1",
+        "title": "The Adaptive Leader (Conflict Resolution)",
+        "assessed_stage": "Stage 5 (Self-Transforming Mind)",
+        "excerpt": "I used to think my job as a leader was to synthesize the best data, author the 'right' strategic vision, and get everyone on board. Now I realize that my own framework for what makes a strategy 'good' is just one limited lens. When a faction in the company violently opposes my plan, I don't try to manage them or persuade them anymore. I intentionally bring them into the room because their opposition threatens my worldview—and I need my worldview threatened. My system is incomplete, and I need their friction to dismantle my blind spots so something entirely new can emerge.",
+        "evaluation": "At Stage 4, a leader listens to feedback to improve their own system or politely tolerates dissent while holding their ground. At Stage 5, the leader takes their own system as an object. They don't just tolerate opposing views; they actively court contradiction and paradox.",
+        "source": "Synthesized from Jennifer Garvey Berger’s Changing on the Job: Growing Leaders for a Complex World (2011)"
+    },
+    {
+        "section": "Solid Stages",
+        "stage": "Stage 5",
+        "profile_id": "S5.2",
+        "title": "The Interdependent Partner (Intimate Relationships)",
+        "assessed_stage": "Stage 5 (Self-Transforming Mind)",
+        "excerpt": "In my first marriage, we had great boundaries. I had my clearly defined needs, she had hers, and we negotiated the space between us like two sovereign nations making a treaty. It was very healthy, but very separate. With my current partner, I see that 'sovereignty' is an illusion. We aren't just negotiating our pre-existing boundaries; we are actively co-creating each other. I allow myself to be profoundly altered by her, without any fear that I will 'lose myself'—because I now know my 'self' isn't a static fortress to protect. It's an ongoing, fluid process of transformation.",
+        "evaluation": "Stage 3 partners fuse together. Stage 4 partners build strong boundaries to avoid being swallowed up. The Stage 5 partner safely relaxes those boundaries, viewing intimacy not as a contract between two complete individuals, but as an intimate system where both people continually transform each other.",
+        "source": "Kegan's In Over Our Heads (1994)."
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 2 to 3",
+        "profile_id": "S23.1",
+        "title": "The Shift to Institutional Loyalty",
+        "assessed_stage": "Stage 3 (The Socialized / Interpersonal Mind)",
+        "excerpt": "The Honor Code means everything to me now because it is what binds us together as a corps. I would never cheat, not because I'm afraid of the punishment, but because I could never look my squad mates in the eye again. If I lied, I would be betraying my brothers and sisters in arms, and I'd be betraying what it actually means to wear this uniform.",
+        "evaluation": "A major finding of the West Point study was the military's incredible success at pushing cadets from Stage 2 to Stage 3 by their senior year. The evaluator scores this as Stage 3 because the cadet is now subject to the shared values of the institution. Their identity is completely fused with their relationships and their role as a cadet. They behave ethically to maintain their interpersonal connections and to uphold how others view them.",
+        "source": "Snook and Bartone's landmark longitudinal studies at West Point utilized the SOI to track cadets over 4 years. West Point Cadets (Longitudinal Study)"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 3 to 4",
+        "profile_id": "S34.1",
+        "title": "Manager B",
+        "assessed_stage": "Stage 4(3) (Nearing the Self-Authoring Mind)",
+        "excerpt": "When discussing workplace autonomy and a recent conflict over decision-making, Manager B defends his need to make calls independently, telling the interviewer: Because I'm not me if I don't [make decisions by myself].",
+        "evaluation": "Assessors use sub-stages (like 4/3 or 4(3)) to denote transitions. Manager B is scored primarily at Stage 4 because he has an internal seat of judgment and insists on his own self-authored decision-making. However, the parenthetical (3) indicates lingering Stage 3 elements: the defensive phrasing (I'm not me if...) suggests his self-authored identity is still somewhat reactive to the external pressures he is pushing against, rather than being entirely self-sustained.",
+        "source": "Otto Laske’s Constructive Developmental Framework (CDF), which builds directly on the Kegan-Lahey SOI methodology. Published in the paper: On Leadership As Something We Are Rather Than Have (2006)."
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 3 to 4",
+        "profile_id": "S34.2",
+        "title": "College Students Navigating Beliefs",
+        "assessed_stage": "Transitioning from Stage 3 to Stage 4",
+        "excerpt": "In a longitudinal study adapting Kegan's framework to measure self-authorship in students, interviewees were asked about their religious and spiritual practices. A student named Justin explained his recent friction with his family regarding his beliefs, noting the importance of disagreeing with your parents so they know you have developed your own beliefs.",
+        "evaluation": "Justin is in the crossroads. A Stage 3 individual would conform to the parents' beliefs to maintain the relationship. A fully Stage 4 individual would comfortably hold their own beliefs without needing to prove them to their parents. Justin is in the middle: he is generating his own internal ideology (Stage 4), but he still relies on his parents' acknowledgement of that ideology to validate it (Stage 3).",
+        "source": "Adapted from research on religious belief and self-authorship, utilizing Kegan's and Marcia Baxter Magolda's developmental interview strategies. Referenced in A New Lens for Seeing: A Suggestion for Analyzing Religious Belief."
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 3 to 4",
+        "profile_id": "S34.3",
+        "title": "Instructional Coach",
+        "assessed_stage": "Stage 3/4 (Transitioning to Self-Authoring)",
+        "excerpt": "I know I need to tell the principal that this new curriculum isn't working for the kids. That's my professional assessment, and I stand by it. But I just dread the meeting. I feel sick to my stomach thinking she might feel I'm undermining her or that I'm not a 'team player.'",
+        "evaluation": "Evaluated on handling pushback against school administration. The subject showed elements of having internal standards (Stage 4) but still felt deep internal conflict when those standards disrupted relationships with superiors (Stage 3).",
+        "source": "Constructive-Developmental Theory as a Framework (Gardner-Webb Univ., 2018)"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 3 to 4",
+        "profile_id": "S34.4",
+        "title": "Manager B (Corporate Decision Maker)",
+        "assessed_stage": "Stage 4(3) (Primarily Self-Authoring)",
+        "excerpt": "I have to be the one to make the final call on my team's projects. Because I'm not me if I don't. If I let upper management dictate the details, I lose my identity as a leader.",
+        "evaluation": "Evaluated on workplace autonomy. He insisted on making his own decisions (I'm not me if I don't), which showed a Stage 4 internal compass, but the defensive nature of his boundary-setting indicated lingering Stage 3 fears of being consumed by others' expectations.",
+        "source": "On Leadership As Something We Are Rather Than Have (Laske, 2006) via the Interdevelopmentals Institute"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 3 to 4",
+        "profile_id": "S34.5",
+        "title": "Community Leader (Work Motivation)",
+        "assessed_stage": "Stage 3 to 4 Transition",
+        "excerpt": "I used to volunteer because it got me recognition in the community; I liked being seen as the 'good guy.' Now, that recognition feels kind of hollow. I only want to do the work if it actually aligns with my personal standard for social justice, even if nobody is looking.",
+        "evaluation": "A leader showed that as they moved toward Stage 4, their motivation shifted from instrumental (reward-based) to internalized goals (value-based).",
+        "source": "This study correlated SOI scores with motivation. Testing the Developmental Nature of Work Motivation (Bugenhagen, 2012)"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 3 to 4",
+        "profile_id": "S34.6",
+        "title": "Client A (Autodidact Coaching)",
+        "assessed_stage": "Stage 3(4)",
+        "excerpt": "I know exactly what my boundaries should be with this toxic colleague. I have the email drafted in my head. But when he walks in the room, I just freeze because I'm absolutely terrified he'll think I'm being a difficult person.",
+        "evaluation": "The client struggled with setting boundaries because they were still partly subject to the toxic colleague's perception of them, despite intellectually knowing better.",
+        "source": "Using the 'Autodidact' Subject-Object Interview in Coaching (2015)"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 3 to 4",
+        "profile_id": "S34.7",
+        "title": "Peter (The Torn Husband/Employee)",
+        "assessed_stage": "Stage 3/4 (Crossroads)",
+        "excerpt": "I'm totally torn. My boss needs me to stay late to finish the pitch, and my wife is furious that I'm missing dinner again. I'm just getting pulled apart by what he wants and what she wants. I just wish one of them would ease up so I wouldn't have to disappoint somebody.",
+        "evaluation": "Peter is evaluated on the Torn prompt. He feels torn between his boss's demands and his wife's expectations. He scores at 3/4 because he realizes he needs to make his own choice (Stage 4), but he frames the conflict entirely as a battle between two external loyalties (Stage 3), rather than a conflict of his own internal values.",
+        "source": "In In Over Our Heads (1994)"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 4 to 5",
+        "profile_id": "S45.1",
+        "title": "Higher Education Leader",
+        "assessed_stage": "Transitioning Stage 4 to 5 (Self-Authoring to Self-Transforming)",
+        "excerpt": "I realized that my vision for the department, as right as I felt it was, was just one system of thought. I had to let go of 'my' strategic plan to see how the faculty's resistance wasn't just stubbornness, but a completely valid, competing system of values. We couldn't solve the crisis until I stopped identifying so tightly with my own agenda.",
+        "evaluation": "Leaders scoring at stage 4/5 demonstrated the ability to not only hold their own self-authored vision but to step outside their own ideologies to hold multiple, conflicting institutional perspectives simultaneously.",
+        "source": "Uses of Complex Thinking in Higher Education Adaptive Leadership (Yeyinmen, Harvard Univ., 2016)"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 4 to 5",
+        "profile_id": "S45.2",
+        "title": "Helen (The Transitioning Executive)",
+        "assessed_stage": "Stage 4 moving to 5 (Self-Authoring to Self-Transforming)",
+        "excerpt": "I used to come into these negotiations with my own watertight framework, ready to defend it. Now, I try to hold my framework loosely. I'm actively listening for the piece of data from the other side that proves my entire framework is incomplete.",
+        "evaluation": "Helen is evaluated on her conflict resolution. She demonstrates Stage 4 by holding her ground, but shows flashes of Stage 5 by actively seeking out data that might prove her own self-authored system wrong.",
+        "source": "In How the Way We Talk Can Change the Way We Work (2001)"
+    },
+    {
+        "section": "Transitional Stages",
+        "stage": "Stage 4 to 5",
+        "profile_id": "S45.3",
+        "title": "The Evolving Academic (Intellectual Humility)",
+        "assessed_stage": "Stage 4/5 to Stage 5",
+        "excerpt": "For twenty years, I championed a very specific pedagogical model. It was my identity; I wrote the literal book on it. But lately, I've been deeply fascinated by the edge cases where my model completely fails. It’s not that my model was 'wrong' and I need to invent a 'better' one to replace it. It’s that the very act of trying to force human learning into a closed model is flawed. I’m actually finding immense joy in deconstructing my own life's work to see what truth exists in the exact opposite of what I've been preaching.",
+        "evaluation": "A Stage 4 person might feel an ego threat if their theory was proven incomplete. This Stage 5 individual separates their ego from their ideology entirely. They hold contradictions comfortably and can playfully dismantle the system they spent their life building because they no longer need a closed, perfect system to feel secure.",
+        "source": "On Robert Kegan's In Over Our Heads: The Mental Demands of Modern Life (1994). Kegan spends significant time in this book discussing the transition from the 4th order (the Modernist mind that builds grand, complete theories) to the 5th order (the Postmodern mind that recognizes the inherent incompleteness of all theories and paradigms)."
+    }
+    ]
