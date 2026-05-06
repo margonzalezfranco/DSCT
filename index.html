@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluating Developmental Cognition Capabilities of LLMs</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 leading-relaxed">
+
+    <!-- Header / Hero Section -->
+    <header class="bg-white border-b border-slate-200 sticky top-0 z-50">
+        <div class="max-w-5xl mx-auto px-4 py-4 flex justify-between items-center">
+            <span class="font-bold text-indigo-600 text-lg tracking-tight">DSCT Benchmarking</span>
+            <div class="flex space-x-4">
+                <a href="#abstract" class="text-sm font-medium text-slate-600 hover:text-indigo-600 transition">Abstract</a>
+                <a href="#instrument" class="text-sm font-medium text-slate-600 hover:text-indigo-600 transition">The DSCT Instrument</a>
+                <a href="#experiments" class="text-sm font-medium text-slate-600 hover:text-indigo-600 transition">Findings</a>
+                <a href="#cite" class="text-sm font-medium text-slate-600 hover:text-indigo-600 transition">Cite</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-12">
+        
+        <!-- Paper Title & Authors -->
+        <section class="text-center mb-12">
+            <span class="inline-block bg-indigo-50 text-indigo-700 text-xs px-3 py-1 rounded-full font-semibold uppercase tracking-wider mb-4">NeurIPS 2026 Submission</span>
+            <h1 class="text-4xl font-extrabold text-slate-900 tracking-tight sm:text-5xl mb-6">
+                Evaluating Developmental Cognition Capabilities of LLMs
+            </h1>
+            <p class="text-lg text-slate-500 max-w-2xl mx-auto mb-8">
+                Bringing Robert Kegan's constructive-developmental theory into LLM evaluation as a complementary user-modeling lens.
+            </p>
+            
+            <!-- Author Block (Anonymous or Placeholders) -->
+            <div class="text-center mb-8">
+                <p class="font-medium text-slate-700">Anonymous Author(s)</p>
+                <p class="text-sm text-slate-400">Affiliation & Email Field</p>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="flex justify-center space-x-4">
+                <a href="https://github.com/margonzalezfranco/DSCT.github.io" target="_blank" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-slate-900 hover:bg-slate-800 transition shadow-sm">
+                    <i class="fab fa-github mr-2"></i> Code Repository
+                </a>
+                <a href="#" class="inline-flex items-center justify-center px-5 py-3 border border-slate-300 text-base font-medium rounded-md text-slate-700 bg-white hover:bg-slate-50 transition shadow-sm">
+                    <i class="far fa-file-pdf mr-2"></i> Download Paper
+                </a>
+            </div>
+        </section>
+
+        <hr class="border-slate-200 my-12" />
+
+        <!-- Abstract -->
+        <section id="abstract" class="mb-16">
+            <h2 class="text-2xl font-bold text-slate-900 mb-4">Abstract</h2>
+            <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm text-slate-600 text-justify space-y-4">
+                <p>
+                    Conversational AI typically treats users as cognitively homogeneous, overlooking differences in how people make sense of what models say. We bring Robert Kegan's constructive-developmental theory into LLM evaluation as a complementary user-modeling lens, distinct from preferences, expertise, or demographics. Existing assessment methods rely either on expert interviews that do not scale or on sentence-completion instruments that are proprietary, lengthy, or invasive.
+                </p>
+                <p>
+                    We introduce the <strong>Developmental Sentence Completion Test (DSCT)</strong>, a 20-item instrument designed to elicit developmental signal in self-administered text, and use it to ask how much of that signal can be recovered by LLMs across three elicited response regimes: simulated personas, real human respondents, and default model-generated answers.
+                </p>
+                <p>
+                    On simulated personas, top frontier models recover simulator-intended stage labels with high accuracy, but agreement with trained human raters is lower, indicating that simulator and classifiers may share priors about how stages should appear in text. On real human DSCT responses, human-LLM agreement is fair, with much stronger within-neighborhood than exact agreement, suggesting that developmental signal is recoverable but noisy even under structured elicitation. Finally, when LLMs answer DSCT prompts without persona-conditioning, their responses exhibit stable stage-like differences across model families, with larger and newer models tending to generate higher-stage-seeming text. These results suggest that the core constraint for stage-aware conversational AI is not classifier accuracy alone, but the recoverability of developmental signal from elicited text. DSCT offers a first step toward benchmarking that possibility.
+                </p>
+            </div>
+        </section>
+
+        <!-- The 3 Regimes / Core Findings -->
+        <section id="experiments" class="mb-16">
+            <h2 class="text-2xl font-bold text-slate-900 mb-6">Evaluation across Three Regimes</h2>
+            <div class="grid md:grid-cols-3 gap-6">
+                <!-- Regime 1 -->
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 rounded-lg bg-indigo-50 text-indigo-600 flex items-center justify-center font-bold mb-4">1</div>
+                    <h3 class="font-bold text-slate-900 mb-2">Simulated Personas</h3>
+                    <p class="text-sm text-slate-600">
+                        Top frontier models (e.g., Claude Opus 4.6, Gemini 3.1 Pro, Grok 4.2) recover target stage labels with high accuracy. Compact models degrade on transitional stages and tend to overestimate.
+                    </p>
+                </div>
+                <!-- Regime 2 -->
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 rounded-lg bg-indigo-50 text-indigo-600 flex items-center justify-center font-bold mb-4">2</div>
+                    <h3 class="font-bold text-slate-900 mb-2">Real Humans</h3>
+                    <p class="text-sm text-slate-600">
+                        Evaluated against 83 human respondents. LLM-human agreement is fair ($\kappa = 0.49$), pointing to structural noise in real-world text. Proximity matches ($\pm0.5$ stage) reached 82.9%.
+                    </p>
+                </div>
+                <!-- Regime 3 -->
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 rounded-lg bg-indigo-50 text-indigo-600 flex items-center justify-center font-bold mb-4">3</div>
+                    <h3 class="font-bold text-slate-900 mb-2">Default LLM Output</h3>
+                    <p class="text-sm text-slate-600">
+                        Without persona-conditioning, models exhibit baseline developmental styles. Newer and larger frontier models consistently generate higher-stage structural text over time.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- The DSCT Instrument -->
+        <section id="instrument" class="mb-16">
+            <h2 class="text-2xl font-bold text-slate-900 mb-2">The DSCT Instrument</h2>
+            <p class="text-slate-600 mb-6">
+                The DSCT optimizes the canonical 36-item Loevinger SCT by dropping gendered, invasive, or culturally obsolete items down to 20 highly diagnostic stems split into Self and Abstracted assessments.
+            </p>
+            
+            <div class="bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
+                <div class="grid md:grid-cols-2 divide-y md:divide-y-0 md:divide-x divide-slate-200">
+                    <!-- Self Assessment -->
+                    <div class="p-6">
+                        <h3 class="font-bold text-indigo-600 uppercase tracking-wider text-xs mb-4"><i class="far fa-user mr-2"></i> Section 1: Self-Assessment</h3>
+                        <ol class="list-decimal list-inside text-sm text-slate-600 space-y-2">
+                            <li>When a promise is broken...</li>
+                            <li>When both choices feel right...</li>
+                            <li>When things don't go as I hoped...</li>
+                            <li>When the hard work finally pays off...</li>
+                            <li>If I am asked to compromise...</li>
+                            <li>When I realized someone was paying attention...</li>
+                            <li>Saying goodbye to something that mattered...</li>
+                            <li>When what used to work no longer works...</li>
+                            <li>When I have to choose what comes first...</li>
+                            <li>When I realize I cannot control what happens next...</li>
+                        </ol>
+                    </div>
+                    <!-- Abstracted Assessment -->
+                    <div class="p-6">
+                        <h3 class="font-bold text-indigo-600 uppercase tracking-wider text-xs mb-4"><i class="fas fa-users mr-2"></i> Section 2: Abstracted-Other</h3>
+                        <ol start="11" class="list-decimal list-inside text-sm text-slate-600 space-y-2">
+                            <li>When a person feels they were treated unfairly...</li>
+                            <li>If a person feels pulled between their own view...</li>
+                            <li>A person works very hard on something, but it fails...</li>
+                            <li>A team celebrates a project... The person who led it...</li>
+                            <li>A person believes a decision their group supports is wrong...</li>
+                            <li>When a person sees someone make a sacrifice...</li>
+                            <li>When a person has to leave a role or place...</li>
+                            <li>A person realizes their plans need to change...</li>
+                            <li>When a person must choose between two opportunities...</li>
+                            <li>A person must make an important decision without data...</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Citation Block -->
+        <section id="cite" class="mb-16">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-2xl font-bold text-slate-900">Citation</h2>
+                <button onclick="copyBibTeX()" class="text-xs bg-slate-200 hover:bg-slate-300 text-slate-700 px-3 py-1 rounded font-medium transition">
+                    <i class="far fa-copy mr-1"></i> Copy BibTeX
+                </button>
+            </div>
+            <pre id="bibtex" class="bg-slate-900 text-slate-300 p-5 rounded-xl text-xs font-mono overflow-x-auto border border-slate-800 shadow-inner">
+@inproceedings{anonymous2026evaluatincllms,
+  title={Evaluating Developmental Cognition Capabilities of LLMs},
+  author={Anonymous Authors},
+  booktitle={40th Conference on Neural Information Processing Systems (NeurIPS 2026)},
+  year={2026},
+  url={https://github.com/margonzalezfranco/DSCT.github.io}
+}</pre>
+        </section>
+
+    </main>
+
+    <footer class="bg-white border-t border-slate-200 py-8">
+        <div class="max-w-5xl mx-auto px-4 text-center text-xs text-slate-400">
+            <p>&copy; 2026 DSCT Paper Project Page. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Copy Block Script -->
+    <script>
+        function copyBibTeX() {
+            const code = document.getElementById('bibtex').innerText;
+            navigator.clipboard.writeText(code).then(() => {
+                alert('BibTeX copied to clipboard!');
+            }).catch(err => {
+                console.error('Could not copy text: ', err);
+            });
+        }
+    </script>
+</body>
+</html>
